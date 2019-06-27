@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Lancaster"
   date_start = "2019-15-03"
   date_end = ""
-  description = """
-A new techincal consultancy that aims to empower clients with the skills to improve their digital impact. From basic website development to search engine optimisation, our team can improve all your online services."""
+  description = """A new techincal consultancy that aims to empower clients with the skills to improve their digital impact. From basic website development to search engine optimisation, our team can improve all your online services."""
 
 [[experience]]
   title = "Professor"
