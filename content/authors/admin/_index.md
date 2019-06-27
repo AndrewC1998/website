@@ -51,16 +51,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:a.connell1@lancaster.ac.uk".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/andyconnell1998
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/andrewmconnell/
+- icon: headphones
+  icon_pack: fas
+  link: https://www.mixcloud.com/BailriggFM/playlists/the-atomic-fridge/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/AndrewC1998
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,7 +71,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "a.connell1@lancaster.ac.uk"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -77,6 +80,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a graduate Mathematics with Statistics student who specialises in computational statistics, changepoint detection and wavelet analysis. I am currently undertaking a MSc in Statistics (Theory and Methods) at Imperial College London.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Furthermore, I have been the Team Leader of Enactus Lancaster; Enactus Lancaster is part of an international non-profit organisation that brings students together who then use entrepreneurial action to improve and empower the lives of beneficiaries.
+
+Moreover, I was also a Google Summer of Code 2018 open source developer working on creating and maintaining a package for R Project for Statistical Programming. This package is called changepoint.online and alongside developing the package, I also developed new statistical methods. My research involved the creation of new changepoint detection methods which are online versions of the statistical methods PELT and ECP. I have continued to develop changepoint methods and have taken part in Google Summer of Code 2019. Over the 2019 period, I added second order structure to changepoint detection within the changepoint package.
