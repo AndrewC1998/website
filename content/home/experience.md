@@ -23,7 +23,7 @@ title = "CEO"
 company = "WEB201" 
 company_url = "https://web201.tdhc.uk" 
 location = "London" 
-date_start = "2019-03-15" 
+date_start = "2019-03-16" 
 date_end = "" 
 description = """ A new techincal consultancy that aims to empower clients with the skills to improve their digital impact. From basic website development to search engine optimisation, our team can improve all your online services. Responsibilities include:
   
@@ -66,5 +66,46 @@ location = "Lancaster"
 date_start = "2018-03-15" 
 date_end = "2019-06-15" 
 description = """As the Team Leader of Enactus Lancaster I was ultimately responsible for all activities of the society. I lead the executive committee and was involved in the creating and overseeing of long term strategic plans. I regularly liaised with Enactus UK where I ensured that all necessary information is passed between Enactus UK and Enactus Lancaster. Furthermore, through leading over 80 students at Lancaster University across several projects, I ensure that all projects are kept to schedule and our beneficiaries are positively impacted through entrepreneurial action. Details of the projects can be found in the Enactus section."""
+
+[[experience]] 
+title = "Radio Presenter" 
+company = "Bailrigg FM - The Atomic Fridge" 
+company_url = "https://bailriggfm.co.uk" 
+location = "Lancaster" 
+date_start = "2017-11-27" 
+date_end = "2019-01-01" 
+description = """I, along with two other students, hosted a weekly radio show, "The Atomic Fridge", which is broadcast on Thursday mornings and has featured in the Maths departmental newsletter. We interviewed guests about their fields of study. Several guests agreed to appear on the show including: Dr Alexander Belton, Professor Roger Jones and Dr. Mark MacDonald. We discussed mathematics, physics and statistical research ideas with the intention of broadening listeners' knowledge of these areas. The radio show has allowed me to explore and understand areas of mathematics, statistics and physics that I would not normally have encountered as an undergraduate student."""
+
+[[experience]] 
+title = "Mathematics Departmental Ambassador" 
+company = "Lancaster University Mathematics and Statistics Department" 
+company_url = "https://www.lancaster.ac.uk/maths/" 
+location = "Lancaster" 
+date_start = "2017-10-09" 
+date_end = "2019-06-26" 
+description = """Alongside my studies at Lancaster, I was also a Mathematics Ambassador. As a Mathematics ambassador it was my job to conduct campus tours, work on behalf of my department and represent the university on Open Days. For the Open Days, I showed potential and current applicants around the university accommodation and gave them any information that they required.
+As a Mathematics ambassador, I also presented lectures and talked about student life at Lancaster, what it is like to study Maths and answered any subject specific questions the applicants had."""
+
+[[experience]] 
+title = "Robotics Teacher" 
+company = "Tamwood International College LTD." 
+company_url = "https://www.tamwood.com/tamwood-camps/teen-robotics-camp/" 
+location = "Boston" 
+date_start = "2017-07-03" 
+date_end = "2017-08-24"
+description = """Over the summer of 2017 I worked as a full time teacher and taught robotics to 13 to 17 year olds for Tamwood Camps. This meant writing and delivering lessons and evaluating students work. Furthermore, I also took the children on several excursions to MIT where more lessons took place.
+
+During the lessons, the children learned how to build basic robots as well as gain a deeper understanding for programming. This was the first year the robotics programme was run and I was the sole teacher in the first year. The programme is now being run again this year."""
+
+[[experience]] 
+title = "Lead Department Representative" 
+company = "Lancaster University Students Union" 
+company_url = "https://lancastersu.co.uk/reps" 
+location = "Lancaster" 
+date_start = "2017-07-03" 
+date_end = "2017-08-24" 
+description = """Having represented the Department for three years, it was my job to attend student-staff meetings and other events for the Mathematics and Statistics Department. The nature of this role meant I listened to the concerns raised by the students within my department; discussed these issues with staff; worked to find the best possible resolution for all parties; and fed back all of the relevant information to my fellow students.
+
+In my third year, I took on the role as Lead Representative. Tasks for this role included creating agendas for all staff-student meetings, ensure that all students, including the other representatives, have their voices heard and chairing all meetings for the Mathematics and Statistics Department. This role meant I interacted with undergraduates and postgraduates."""
 
 +++
