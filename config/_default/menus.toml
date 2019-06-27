@@ -19,15 +19,14 @@
 #  weight = 40
 
 [[main]]
- name = "Education"
- url = "#accomplishments"
- weight = 20
- 
-[[main]]
  name = "Experience"
  url = "#experience"
+ weight = 20
+
+[[main]]
+ name = "Education"
+ url = "#accomplishments"
  weight = 30
- 
  
  [[main]]
   name = "Enactus"
