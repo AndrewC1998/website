@@ -29,25 +29,25 @@ subtitle = ""
 [[feature]]
   icon = "github-square"
   icon_pack = "fab"
-  name = "Photography"
-  description = "10%"
+  name = "Git"
+  description = "85%"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "Programming"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "computer"
+  description = "100%"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "people"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Team Work"
+  description = "80%"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "speed"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Public Speaking"
+  description = "90%"
 
 +++
