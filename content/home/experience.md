@@ -25,7 +25,7 @@ company_url = ""
 location = "California" 
 date_start = "2017-01-01" 
 date_end = "" 
-description = """ Responsibilities include:
+description = """ A new techincal consultancy that aims to empower clients with the skills to improve their digital impact. Responsibilities include:
   
  * Client Consulting
  * Website Development
