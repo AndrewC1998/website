@@ -45,9 +45,9 @@ subtitle = ""
   description = "100%"
   
 [[feature]]
-  icon = "wave-square"
+  icon = "hand-holding-usd"
   icon_pack = "fas"
-  name = "Signal Processing"
+  name = "Finance"
   description = "80%"
 
 +++
