@@ -58,4 +58,13 @@ The project implements several changes in second order structure algorithms incl
          
 The Locally Stationary Wavelet (LSW) process can capture many dependence structures. Of particular interest in changepoint applications is the fact that a piecewise second order time series will have its structure encoded as piecewise constant sequences in the local wavelet periodogram - a feature noted by Cho and Fryzlewicz (2012). Consequently when using the LSW framework for changepoint methods we do not need to be prescriptive about the structure of the dependence beyond the requirements of the LSW definition. A barrier to the current implementation in wbsts is that the majority of practitioners are familiar with variance and autocorrelation but not necessarily spectral decompositions - let alone time-varying spectra. For this reason we are seeking to implement a method to detect changes in variance and covariance through the non-parametric LSW model instead of a change in spectra."""
 
+[[experience]] 
+title = "Team Leader" 
+company = "Enactus Lancaster" 
+company_url = "http://enactusuk.org" 
+location = "Lancaster" 
+date_start = "2018-03-15" 
+date_end = "2019-06-15" 
+description = """As the Team Leader of Enactus Lancaster I was ultimately responsible for all activities of the society. I lead the executive committee and was involved in the creating and overseeing of long term strategic plans. I regularly liaised with Enactus UK where I ensured that all necessary information is passed between Enactus UK and Enactus Lancaster. Furthermore, through leading over 80 students at Lancaster University across several projects, I ensure that all projects are kept to schedule and our beneficiaries are positively impacted through entrepreneurial action. Details of the projects can be found in the Enactus section."""
+
 +++
