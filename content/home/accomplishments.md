@@ -19,33 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Lancaster University"
+  organization_url = "https://www.lancaster.ac.uk"
+  title = "BSc Mathematics with Statistics"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = ""
+  date_start = "2016-10-01"
+  date_end = "2019-06-26"
+  description = "First Class Hons. I completed modules in a variety of areas including: Probability, Complex and Real Analysis, Linear Algebra, Computational Mathematics, Machine Learning and Time Series Analysis."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Imperial College London"
+  organization_url = "http://www.imperial.ac.uk"
+  title = "MSc Statistics (Theory and Methods)"
+  url = "http://www.imperial.ac.uk/mathematics/postgraduate/msc/statistics/prospective/theory-and-methods/"
+  certificate_url = ""
+  date_start = "2019-10-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  description = "This one-year full-time programme provides outstanding training both in theoretical and methodological statistics. This course is equipting me with a range of transferable skills, including programming, problem-solving, critical thinking, scientific writing, project work and presenting."
 
 +++
