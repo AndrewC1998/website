@@ -7,7 +7,6 @@ weight = 65  # Order that this section will appear.
 
 title = "Enactus Projects"
 subtitle = ""
-url = "#slider"
 
 [content]
   # Page type to display. E.g. project.
