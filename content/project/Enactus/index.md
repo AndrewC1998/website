@@ -31,7 +31,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{icon_pack = "fab", icon="facebook", name="Like", url = "https://www.facebook.com/EnactusLancaster/"}, {icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/enactuslancs?lang=en"}]
+links = [{icon_pack = "fab", icon="facebook", name="Like", url = "https://www.facebook.com/EnactusLancaster/"}, {icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/enactuslancs?lang=en"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
