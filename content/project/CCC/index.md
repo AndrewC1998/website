@@ -6,7 +6,7 @@ title = "Create Connect Change"
 date = 2019-06-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "We find high-potential entrepreneurs in South African townships who severely lack world view and global thinking. Their innovation power suffers from their limited horizon. While we have many highly skilled people in Europe who would like to help but lack the local insight. In an attempt to address the demand for entrepreneurial skills in South Africa, we piloted CCC in 2018, an online platform accessible to everyone in South Africa, where we provide a project management tool for proper development and management of business ideas, inspiring examples of South African entrepreneurs who have made a success of their ventures, tailored business resources designed specifically to match each beneficiary, and a group of community connection tools to encourage collaboration between community members. Our solution is bringing these two together and building an online platform. The program has found that past mentees readily want to help other mentees and we find that most mentees go on to become mentors."
+summary = "We find high-potential entrepreneurs in South African townships who severely lack world view and global thinking. Their innovation power suffers from their limited horizon while we have many highly skilled people in Europe who lack the local insight. To address the demand for entrepreneurial skills in South Africa, we piloted CCC in 2018, an online platform accessible to everyone in South Africa, where we provide a project management tool for development and management of business ideas."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
