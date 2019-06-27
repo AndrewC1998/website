@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]] 
 title = "CEO" 
 company = "WEB201" 
-company_url = "https://web201.tdhc.uk" 
+company_url = "" 
 location = "London" 
 date_start = "2019-15-03" 
 date_end = "" 
