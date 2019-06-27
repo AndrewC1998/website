@@ -82,6 +82,4 @@ user_groups:
 
 I am a graduate Mathematics with Statistics student who specialises in computational statistics, changepoint detection and wavelet analysis. I am currently undertaking a MSc in Statistics (Theory and Methods) at Imperial College London.
 
-Furthermore, I have been the Team Leader of Enactus Lancaster; Enactus Lancaster is part of an international non-profit organisation that brings students together who then use entrepreneurial action to improve and empower the lives of beneficiaries.
-
 Moreover, I was also a Google Summer of Code 2018 open source developer working on creating and maintaining a package for R Project for Statistical Programming. This package is called changepoint.online and alongside developing the package, I also developed new statistical methods. My research involved the creation of new changepoint detection methods which are online versions of the statistical methods PELT and ECP. I have continued to develop changepoint methods and have taken part in Google Summer of Code 2019. Over the 2019 period, I added second order structure to changepoint detection within the changepoint package.
