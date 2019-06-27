@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 
 [[experience]] 
 title = "CEO" 
-company = "GenCoin" 
-company_url = "" 
-location = "California" 
-date_start = "2017-01-01" 
+company = "WEB201" 
+company_url = "https://web201.tdhc.uk" 
+location = "London" 
+date_start = "2019-15-03" 
 date_end = "" 
 description = """ A new techincal consultancy that aims to empower clients with the skills to improve their digital impact. From basic website development to search engine optimisation, our team can improve all your online services. Responsibilities include:
   
