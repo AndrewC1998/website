@@ -25,22 +25,25 @@ organizations:
 bio: My research interests include machine learning, signal processing and time series analysis.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Time Series Analysis
+- Machine Learning
+- Fourier & Wavelet Transforms
+- Signal Processing
+- Computational Methods
+- Bayesian Statistics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
+  - course: MSc Statistics (Theory and Methods)
+    institution: Imperial College London
+    year: 2020
+  - course: BSc Mathematics with Statistics (First Class Hons)
+    institution: Lancaster University
+    year: 2019
+  - course: A levels in Mathematics, Further Mathematics, Physics & Chemistry
+    institution: Lancaster Royal Grammar School
+    year: 2016
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
