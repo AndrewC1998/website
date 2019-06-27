@@ -10,7 +10,7 @@ summary = "We find high-potential entrepreneurs in South African townships who s
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["commercial", "charitable]
+tags = ["commercial", "charitable"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://projectccc.org"
