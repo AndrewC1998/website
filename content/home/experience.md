@@ -52,6 +52,10 @@ There are many R packages available for offline changepoint detection but, to th
   location = "Lancaster"
   date_start = "2019-06-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """ Detecting changes in statistical properties of a time series is important in a large number of fields. A large amount of research has taken place considering changes in mean and variance in time series. However, a typical assumption is that the error process is independent. Similarly more and more users of existing packages, for example changepoint, are facing problems using real world data due to the dependence structures present. There are several methods available in the literature that are not available in open source code. This project plans to address this by adding this functionality to a popular CRAN package, changepoint.
+  
+The project implements several changes in second order structure algorithms including the commonly used AR(p) structure and changes in variance and autocovariance (rather than spectra) through the LSW model.
+         
+The Locally Stationary Wavelet (LSW) process can capture many dependence structures. Of particular interest in changepoint applications is the fact that a piecewise second order time series will have its structure encoded as piecewise constant sequences in the local wavelet periodogram - a feature noted by Cho and Fryzlewicz (2012). Consequently when using the LSW framework for changepoint methods we do not need to be prescriptive about the structure of the dependence beyond the requirements of the LSW definition. A barrier to the current implementation in wbsts is that the majority of practitioners are familiar with variance and autocorrelation but not necessarily spectral decompositions - let alone time-varying spectra. For this reason we are seeking to implement a method to detect changes in variance and covariance through the non-parametric LSW model instead of a change in spectra."""
 
 +++
