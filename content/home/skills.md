@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "100%"
   
 [[feature]]
   icon = "chart-line"
@@ -33,21 +33,21 @@ subtitle = ""
   description = "85%"
   
 [[feature]]
-  icon = "Programming"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "90%"
+  
+[[feature]]
+  icon = "calculator"
   icon_pack = "fas"
-  name = "computer"
+  name = "Mathematics"
   description = "100%"
   
 [[feature]]
-  icon = "people"
+  icon = "wave-square"
   icon_pack = "fas"
-  name = "Team Work"
+  name = "Signal Processing"
   description = "80%"
-  
-[[feature]]
-  icon = "speed"
-  icon_pack = "fas"
-  name = "Public Speaking"
-  description = "90%"
 
 +++
