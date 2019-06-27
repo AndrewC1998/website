@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Andrew Connell 
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Mathematician & Statistician
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Lancaster University
+  url: "https://www.lancaster.ac.uk/maths/"
+- name: Imperial College London
+  url: "https://www.imperial.ac.uk/statistics"
+- name: Google Summer of Code
+  url: "https://summerofcode.withgoogle.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, signal processing and time series analysis.
 
 interests:
 - Artificial Intelligence
