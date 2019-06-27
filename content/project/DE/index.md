@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Amity"
+title = "Difference Enabled"
 
 # Date this page was created.
 date = 2019-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Project Amity aims to combat loneliness amongst the local elderly population by reaching out to people who may suffer from loneliness, and encouraging them to visit local organisations in order build strong friendships to prevent feelings of loneliness. Currently the group are involved in growing vegetables, knitting blankets for the premature baby ward and dance classes. Amity is an opportunity for all Enactus Lancaster students along with other volunteers to give back to our community while also helping to develop resources for the other projects. "
+summary = "Difference Enabled works one on one with local autistic individuals to develop social, personal, and employability skills. To better support the individuals, Difference Enabled works with a small business "Zest" which prepares and sells salads for individuals to practise their skills and gain work experience. Currently the ingredients are all from those grown by Green Lancaster as well as the volunteers from Amity."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
