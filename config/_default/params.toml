@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "ocean"
+color_theme = "default"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -43,7 +43,7 @@ privacy_pack = false
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = "15:04"
 
 ############################
 ## Contact Widget setup   ##
@@ -51,7 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "a.connell1@lancaster.ac.uk"
-phone = "+447342211819"
+phone = "+44 7342 211 819"
 address = "Mathematics and Statistics Department, Lancaster University, Lancaster, LA1 4YR, UK"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
