@@ -13,7 +13,7 @@ In collaboration with the University’s Information System Service, we are inte
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Commercial"]
+tags = ["commercial"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
