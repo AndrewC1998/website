@@ -22,15 +22,15 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
-     name = "All"
+     name = "       All       "
      tag = "*"
   
    [[content.filter_button]]
-     name = "Commercial"
+     name = "       Commercial        "
      tag = "commercial"
   
    [[content.filter_button]]
-     name = "Charitable"
+     name = "       Charitable        "
      tag = "charitable"
 
 [design]
