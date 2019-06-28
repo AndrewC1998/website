@@ -108,4 +108,14 @@ description = """Having represented the Department for three years, it was my jo
 
 In my third year, I took on the role as Lead Representative. Tasks for this role included creating agendas for all staff-student meetings, ensure that all students, including the other representatives, have their voices heard and chairing all meetings for the Mathematics and Statistics Department. This role meant I interacted with undergraduates and postgraduates."""
 
+[[experience]] 
+title = "Private Tutor" 
+company = "Freelance" 
+company_url = "" 
+location = "London" 
+date_start = "2018-06-01" 
+date_end = "" 
+description = """During my undergraduate degree, I worked as a freelance private tutor specialising in mathematics and physics. I tutored GCSE up to first year degree level. As someone who is passionate in following a career in academia and lecturing, I really engage with the opportunity to teach others especially those in need of mathematics tutoring at an undergraduate level.
+
+Please contact me if you are interested in private lessons or have any other enquiries."""
 +++
