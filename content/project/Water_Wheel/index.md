@@ -50,7 +50,9 @@ Water Wheel uses the ideas of a bike that produces electricity while cycling but
 
 A livable income can be generated through employment at local bike shops, where the beneficiaries will sell the bikes to the greater area. Currently, our team in Ghana are reaching out to the rural areas to find beneficiaries to work with.
 
-Though this project is relatively new, it has already gained attention from the university as well as other Enactus teams. The science behind the bike was developed by ex-Team Leader Andrew Connell who came up with the inital designs in early 2019. Since then, the project has been taken on by a larger team who are hoping to have a fully operational shop by the end of 2020. 
+Though this project is relatively new, it has already gained attention from the university as well as other Enactus teams. The science behind the bike was developed by ex-Team Leader Andrew Connell who came up with the inital designs in early 2019. Since then, the project has been taken on by a larger team who are hoping to have a fully operational shop by the end of 2020.
+
+{{< figure src="bicycle.png" title="Prototype MARK I" >}}
 
 Please contact enactus@lancaster.ac.uk if you wish to know more or get involved with the project.
 
