@@ -6,9 +6,9 @@ title = "Enactus Lancaster"
 date = 2019-06-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Enactus Lancaster is part of an international non-profit organisation that brings students together who then use entrepreneurial action to improve and empower the lives of beneficiaries.
+summary = """Enactus Lancaster is part of an international non-profit organisation that brings students together who then use entrepreneurial action to improve and empower the lives of beneficiaries.
 
-Enactus Lancaster is a team registered under the UK charity Enactus UK. Each team is based at a UK university and is student lead. "
+Enactus Lancaster is a team registered under the UK charity Enactus UK. Each team is based at a UK university and is student lead. """
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
