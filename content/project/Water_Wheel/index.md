@@ -10,7 +10,7 @@ summary = "Water Wheel uses the ideas of a bike that produces electricity while 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Commercial"]
+tags = ["charitable"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
