@@ -46,11 +46,11 @@ links = [{icon_pack = "fab", icon="facebook", name="Like", url = "https://en-gb.
 
 Difference Enabled works one on one with local autistic individuals to develop social, personal, and employability skills. To better support the individuals, Difference Enabled works with a small business "Zest" which prepares and sells salads for individuals to practise their skills and gain work experience. Currently the ingredients are all from those grown by Green Lancaster as well as the volunteers from Amity.
 
-{{< figure src="DE2.png" title=" " >}}
+{{< figure src="teamDE2.png" title=" " >}}
 
 Though the stall was an excellent idea, our team realised that it would only ever have an impact on a very limited number of beneficiaries. While the stall was run, the team looked elsewhere to expand. The decision to start a catering and delivery business was made. The sheer number of catered events on campus led us to believe this was a great opportunity. NUS agreed with us. They have given us a grant to begin developing this new idea. In the long term, the goal is for our project partner, Piccadilly Services, to have its own sustainable business, not just generating profit but also providing otherwise inaccessible life skills to the beneficiaries.
 
-{{< figure src="DE1.png" title=" " >}}
+{{< figure src="teamDE1.png" title=" " >}}
 
 Furthermore, one of our own students George Ruellan has previous experience in developing his own delivery service Campus Bites. The Zest food will be sold on www.campusbites.co.uk and will give all staff and students access to cheap delivered food.
 
