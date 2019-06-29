@@ -46,7 +46,7 @@ links = [{icon_pack = "fab", icon="facebook", name="Like", url = "https://www.fa
   focal_point = "Smart"
 +++
 
-{{< video src="enactuslancasterbanner.mp4" title=" " >}}
+{{< video enactuslancasterbanner >}}
 
 At Enactus Lancaster, we strive to make a difference across the world through the power of social enterprise. Over the past years we have grown our multinational team, consisting of students from more than 17 different countries, with endless ideas and an undefeatable passion for helping others. Our team is made up of a diverse group of students from undergraduates to postgraduates in nearly every subject Lancaster University has.
 
