@@ -72,7 +72,7 @@ We will charge every student at the university a termly fee of 30 pence to use t
 
 If we were to include other universities in this scheme, say three in the northwest region, we would allow them to charge their own price, and take another 30p for each student on their scheme. This would allow us to gain another £3,900 each term if we were to assume the university is of a similar size to ourselves. In fact, average university size in the UK is 25,000 people so Lancaster is considered small and so these are relatively reserved calculations.
 
-{{< figure src="uis.png" title="Different Universities UIs" >}}
+{{< figure src="uis.png" title="Different University UIs" >}}
 
 We will charge each student who signs up for the long distance car-share an additional fee of 30p, and allow them to share the costs for fuel between those who participate.
 
