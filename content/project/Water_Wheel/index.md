@@ -31,10 +31,10 @@ url_code = ""
 
 gallery_item:
 - album: gallery
-  # caption: 
+  caption: 1
   image: lancsghanalogo.png
 - album: gallery
-  # caption:
+  caption: 2
   image: ghana.png
 
 # Custom links (optional).
