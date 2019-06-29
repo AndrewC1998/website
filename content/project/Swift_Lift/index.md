@@ -55,8 +55,7 @@ As well as providing a useful service, Swift Lift also helps to reduce the carbo
 
 We are beginning with Lancaster University, with a long-term plan to be implemented in many universities across the United Kingdom. Our 12 month-plan is to finish developing the app, have it ready for use and be fully integrated into the university’s existing app for staff and students. Over the next 2 years, we hope to establish a steady stream of drivers and commuters at Lancaster University and begin reaching out to other universities to introduce Swift Lift on their campuses.
 
-Swift Lift has a target market with two components, drivers and commuters.
-Our target market for commuters is primarily students at Lancaster University - this is a market size of approximately 13,000 students. Additionally, we plan to target the 2,500 members of staff who work on the campus. Lancaster University used to have a staff-only car-sharing system with other 70 active users, however it has since been shut down. This shows that staff are interested in car-sharing to and from the campus, reinforcing our assumption that there is demand for a service such as Swift Lift.
+Swift Lift has a target market with two components, drivers and commuters. Our target market for commuters is primarily students at Lancaster University - this is a market size of approximately 13,000 students. Additionally, we plan to target the 2,500 members of staff who work on the campus. Lancaster University used to have a staff-only car-sharing system with other 70 active users, however it has since been shut down. This shows that staff are interested in car-sharing to and from the campus, reinforcing our assumption that there is demand for a service such as Swift Lift.
 
 Alternatively, our target market for drivers is anyone, staff or student, who drives to and from campus. Out of these drivers, we aim to target those who drive alone. The university’s 2015 Travel Survey found that 43% of staff members at the university travelled by car alone, compared to only 13% who car-shared. Similarly, 11.5% of students commuted to campus as sole occupants in cars and 4.8% used car-sharing. Our goal is to convert some of these sole-occupants into Swift Lift drivers.
 
@@ -72,6 +71,8 @@ Each student who drives home alone already does this, but has to pay the entire 
 We will charge every student at the university a termly fee of 30 pence to use the service, and provide an opt-out to anyone who doesn’t want to use the system. The cost of being a part of this service each term is negligible when compared to the cost of a bus pass. Lancaster University has around 13,000 students, which would give an approximate revenue of £3,900 each term.
 
 If we were to include other universities in this scheme, say three in the northwest region, we would allow them to charge their own price, and take another 30p for each student on their scheme. This would allow us to gain another £3,900 each term if we were to assume the university is of a similar size to ourselves. In fact, average university size in the UK is 25,000 people so Lancaster is considered small and so these are relatively reserved calculations.
+
+{{< figure src="uis.png" title="Different Universities UIs" >}}
 
 We will charge each student who signs up for the long distance car-share an additional fee of 30p, and allow them to share the costs for fuel between those who participate.
 
