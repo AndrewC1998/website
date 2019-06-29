@@ -15,7 +15,7 @@ Enactus Lancaster is a team registered under the UK charity Enactus UK. Each tea
 tags = [ ]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://enactusuk.org"
+external_link = " "
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -45,4 +45,10 @@ links = [{icon_pack = "fab", icon="facebook", name="Like", url = "https://www.fa
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+{{< figure src="enactuslancasterbanner.mp4" title=" " >}}
+
+At Enactus Lancaster, we strive to make a difference across the world through the power of social enterprise. Over the past years we have grown our multinational team, consisting of students from more than 17 different countries, with endless ideas and an undefeatable passion for helping others. Our team is made up of a diverse group of students from undergraduates to postgraduates in nearly every subject Lancaster University has.
+
+
 
