@@ -29,6 +29,14 @@ url_slides = ""
 url_video = ""
 url_code = ""
 
+gallery_item:
+- album: gallery
+  # caption: 
+  image: lancsghanalogo.png
+- album: gallery
+  # caption:
+  image: ghana.png
+
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
@@ -46,7 +54,7 @@ url_code = ""
 
 Enactus Lancaster is branching out to have overseas members at our international campuses. Lancaster University Ghana have given us a unique insight in how a team can bridge continents and how multi-cultural thinking can lead to better solutions. The team in Ghana presented us with several issues that the country faces on a daily basis, including sanitation and electricity shortages. Dumsor has regular power outages that occur in the suburbs leaving whole neighbourhoods without electricity for extended periods of time.
 
-{{< figure src="lancsghanalogo.png" title=" " >}}
+{{< gallery >}}
 
 Water Wheel uses the ideas of a bike that produces electricity while cycling but couples this with a simple but highly effective filtration device. When cycling, the bike not only stores the energy produced from pedalling but also is able to produce electricity while filtering water. The Enactus Lancaster Ghana team is sourcing renewable materials, such as bamboo, to build the bike while working alongside Enactus Lancaster’s engineers and physicists to integrate the technology within the bike.
 
