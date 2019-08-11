@@ -50,9 +50,9 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "andyconnell1998@googlemail.com"
+email = "andrew.connell19@imperial.ac.uk"
 phone = "+44 7342 211 819"
-address = "Mathematics and Statistics Department, Lancaster University, Lancaster, LA1 4YR, UK"
+address = "Mathematics and Statistics Department, Imperial College London, South Kensington, London, SW7 2AZ, UK"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday 10:00 to 13:00<br>
