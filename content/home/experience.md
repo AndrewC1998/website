@@ -50,8 +50,8 @@ There are many R packages available for offline changepoint detection but, to th
   company = "Google Summer of Code & R Project for Statistical Computing"
   company_url = "https://summerofcode.withgoogle.com/"
   location = "Lancaster"
-  date_start = "2019-06-01"
-  date_end = ""
+  date_start = "2019-05-28"
+  date_end = "2019-09-01"
   description = """ Detecting changes in statistical properties of a time series is important in a large number of fields. A large amount of research has taken place considering changes in mean and variance in time series. However, a typical assumption is that the error process is independent. Similarly more and more users of existing packages, for example changepoint, are facing problems using real world data due to the dependence structures present. There are several methods available in the literature that are not available in open source code. This project plans to address this by adding this functionality to a popular CRAN package, changepoint.
   
 The project implements several changes in second order structure algorithms including the commonly used AR(p) structure and changes in variance and autocovariance (rather than spectra) through the LSW model.
@@ -103,7 +103,7 @@ company = "Lancaster University Students Union"
 company_url = "https://lancastersu.co.uk/reps" 
 location = "Lancaster" 
 date_start = "2017-07-03" 
-date_end = "2017-08-24" 
+date_end = "2019-08-24" 
 description = """Having represented the Department for three years, it was my job to attend student-staff meetings and other events for the Mathematics and Statistics Department. The nature of this role meant I listened to the concerns raised by the students within my department; discussed these issues with staff; worked to find the best possible resolution for all parties; and fed back all of the relevant information to my fellow students.
 
 In my third year, I took on the role as Lead Representative. Tasks for this role included creating agendas for all staff-student meetings, ensure that all students, including the other representatives, have their voices heard and chairing all meetings for the Mathematics and Statistics Department. This role meant I interacted with undergraduates and postgraduates."""
@@ -115,7 +115,16 @@ company_url = ""
 location = "London" 
 date_start = "2018-06-01" 
 date_end = "" 
-description = """During my undergraduate degree, I worked as a freelance private tutor specialising in mathematics and physics. I tutored GCSE up to first year degree level. As someone who is passionate in following a career in academia and lecturing, I really engage with the opportunity to teach others especially those in need of mathematics tutoring at an undergraduate level.
+description = """During my undergraduate and postgraduate degrees, I worked as a freelance private tutor specialising in mathematics and physics. I tutored GCSE up to first year degree level. As someone who is passionate in following a career in academia and lecturing, I really engage with the opportunity to teach others especially those in need of mathematics tutoring at an undergraduate level.
 
 Please contact me if you are interested in private lessons or have any other enquiries."""
+
+[[experience]] 
+title = "Postgraduate Representative" 
+company = "Imperial College London Department of Mathematics" 
+company_url = "https://www.imperial.ac.uk/statistics" 
+location = "London" 
+date_start = "2019-09-01" 
+date_end = "2020-10-01" 
+description = """Alongside my studies at Imperial, I was also the MSc Statistics Representative. As an MSc rep, it was my job to plan events, engage the students and enable an open dialogue between the staff and the students. Due to the COVID-19 pandemic, i had to adapt my event plans and arranged for online coffee breaks, mathematics seminars and wellbeing events. """
 +++
