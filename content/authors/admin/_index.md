@@ -34,6 +34,9 @@ interests:
 
 education:
   courses:
+  - course: PhD Statistics
+    institution: Imperial College London
+    year: 2020
   - course: MSc Statistics (Theory and Methods)
     institution: Imperial College London
     year: 2020
@@ -80,6 +83,6 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate Mathematics with Statistics student who specialises in computational statistics, changepoint detection and wavelet analysis. I am currently undertaking a MSc in Statistics (Theory and Methods) at Imperial College London.
+I am a graduate Mathematics with Statistics student who specialised in computational statistics, changepoint detection and wavelet analysis. I completed an MSc in Statistics (Theory and Methods) at Imperial College London and am currently undertaking a PhD in Statistics under the supervision of [Professor Emma McCoy](https://www.imperial.ac.uk/people/e.mccoy) and [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen). 
 
-Moreover, I was a Google Summer of Code 2018 open source developer working on creating and maintaining a package for R Project for Statistical Computing. This package is called changepoint.online, and alongside developing the package, I also developed new statistical methods. My research involved the creation of new changepoint detection methods which are online versions of the statistical methods PELT and ECP. I have continued to develop changepoint methods and have taken part in Google Summer of Code 2019. Over the 2019 period, I added second order structure to changepoint detection within the changepoint package.
+Moreover, I was a Google Summer of Code 2018 open source developer working on creating and maintaining a package for R Project for Statistical Computing. This package is called changepoint.online, and alongside developing the package, I also developed new statistical methods. My research involved the creation of new changepoint detection methods which are online versions of the statistical methods PELT and ECP. I have continued to develop changepoint methods and have taken part in Google Summer of Code 2019. Over the 2019 period, I added second order structure to changepoint detection within the changepoint package. This year, I completed my Masters thesis on identifiability of self-exciting point processes.
