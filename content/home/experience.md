@@ -38,7 +38,7 @@ description = """ A new techincal consultancy that aims to empower clients with 
   location = "Lancaster"
   date_start = "2018-05-29"
   date_end = "2018-08-31"
-  description = """Over the summer, I was working with Professor David Matteson at Cornell University and Senior Lecturer Dr. Rebecca Killick at Lancaster University to implement a new R package: changepoint.online. Although this work officially ended in August, I have continued developing this project further and begun writing a paper documenting the findings from the summer. Further work, such as the development of online non-parametric changepoint detection is now in the process of being developed.
+  description = """Over the summer, I was working with [Professor David Matteson](https://stat.cornell.edu/people/faculty/david-s-matteson) at Cornell University and Senior Lecturer [Dr. Rebecca Killick](http://www.lancs.ac.uk/~killick/) at Lancaster University to implement a new R package: changepoint.online. Although this work officially ended in August, I have continued developing this project further and begun writing a paper documenting the findings from the summer. Further work, such as the development of online non-parametric changepoint detection is now in the process of being developed.
 
 Throughout the summer I was using R, C++ and C to create the R package and was working from Lancaster University in an office with Ph.D. students. This opportunity meant I was working in an office where new Statistical research were being developed and this enabled me to learn about areas of Statistics that had not been covered by my degree’s curriculum.
 
@@ -74,7 +74,7 @@ company_url = "https://bailriggfm.co.uk"
 location = "Lancaster" 
 date_start = "2017-11-27" 
 date_end = "2019-01-01" 
-description = """I, along with two other students, hosted a weekly radio show, "The Atomic Fridge", which is broadcast on Thursday mornings and has featured in the Maths departmental newsletter. We interviewed guests about their fields of study. Several guests agreed to appear on the show including: Dr Alexander Belton, Professor Roger Jones and Dr. Mark MacDonald. We discussed mathematics, physics and statistical research ideas with the intention of broadening listeners' knowledge of these areas. The radio show has allowed me to explore and understand areas of mathematics, statistics and physics that I would not normally have encountered as an undergraduate student."""
+description = """I, along with two other students, hosted a weekly radio show, "The Atomic Fridge", which is broadcast on Thursday mornings and has featured in the Maths departmental newsletter. We interviewed guests about their fields of study. Several guests agreed to appear on the show including: [Professor Alexander Belton](https://www.lancaster.ac.uk/maths/people/alexander-belton), [Professor Roger Jones](https://www.lancaster.ac.uk/physics/about-us/people/roger-william-lewis-jones) and [Dr. Mark MacDonald](https://www.maths.lancs.ac.uk/~macdonam/). We discussed mathematics, physics and statistical research ideas with the intention of broadening listeners' knowledge of these areas. The radio show has allowed me to explore and understand areas of mathematics, statistics and physics that I would not normally have encountered as an undergraduate student."""
 
 [[experience]] 
 title = "Mathematics Departmental Ambassador" 
