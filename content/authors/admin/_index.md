@@ -37,7 +37,7 @@ education:
   - course: PhD Statistics
     institution: Imperial College London
     year: 2024
-  - course: MSc Statistics - Theory and Methods
+  - course: MSc Statistics - Theory and Methods (Distinction)
     institution: Imperial College London
     year: 2020
   - course: BSc Mathematics with Statistics (First Class Hons)
