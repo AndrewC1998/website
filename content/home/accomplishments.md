@@ -52,6 +52,6 @@ Prizes: Best MSc Statistics Project (Winton Prize)
   certificate_url = ""
   date_start = "2020-10-01"
   date_end = ""
-  description = "I am undertaking a PhD under the supervision of [Professor Emma McCoy](https://www.imperial.ac.uk/people/e.mccoy) and [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen). My research topis is Wavelets in Time Series. I am happy to discuss my research with those interested. "
+  description = "I am undertaking a PhD under the supervision of [Professor Emma McCoy](https://www.imperial.ac.uk/people/e.mccoy) and [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen). My research topic is Wavelets in Time Series. I am happy to discuss my research with those interested. "
   
 +++
