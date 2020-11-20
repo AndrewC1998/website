@@ -41,8 +41,7 @@ date_format = "Jan 2006"
 Dissertation: Identifiability of Self-Exciting Point Processes.
 Supervisor: [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen)
 
-Prizes: Best MSc Statistics Project (Winton Prize)
-        Best MSc Statistics Poster (Department Prize) """
+Prizes: Best MSc Statistics Project (Winton Prize) & Best MSc Statistics Poster (Department Prize) """
 
 [[item]]
   organization = "Imperial College London"
