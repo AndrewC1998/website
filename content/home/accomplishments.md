@@ -36,10 +36,13 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-10-01"
   date_end = "2020-10-01"
-  description = """This one-year full-time programme provides outstanding training both in theoretical and methodological statistics. This course provided me with a range of transferable skills, including programming, problem-solving, critical thinking, scientific writing, project work and presenting. I completed modules in a variety of areas including: Multivariate Analysis, Advanced Statistical Theory, Time Series, Machine Learning and Non-parametric Smoothing and Wavelets.
+  description = """Distinction. This one-year full-time programme provides outstanding training both in theoretical and methodological statistics. This course provided me with a range of transferable skills, including programming, problem-solving, critical thinking, scientific writing, project work and presenting. I completed modules in a variety of areas including: Multivariate Analysis, Advanced Statistical Theory, Time Series, Machine Learning and Non-parametric Smoothing and Wavelets.
   
 Dissertation: Identifiability of Self-Exciting Point Processes.
-Supervisor: [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen)"""
+Supervisor: [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen)
+
+Prizes: Best MSc Statistics Project (Winton Prize)
+        Best MSc Statistics Poster (Department Prize) """
 
 [[item]]
   organization = "Imperial College London"
