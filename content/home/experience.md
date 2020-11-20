@@ -127,4 +127,13 @@ location = "London"
 date_start = "2019-09-01" 
 date_end = "2020-10-01" 
 description = """Alongside my studies at Imperial, I was also the MSc Statistics Representative. As an MSc rep, it was my job to plan events, engage the students and enable an open dialogue between the staff and the students. Due to the COVID-19 pandemic, i had to adapt my event plans and arranged for online coffee breaks, mathematics seminars and wellbeing events. """
+
+[[experience]] 
+title = "Postgraduate Research Representative" 
+company = "Imperial College London Department of Mathematics" 
+company_url = "https://www.imperial.ac.uk/mathematics/postgraduate/doctoral-programme/current-students/key-contacts/" 
+location = "London" 
+date_start = "2020-09-01" 
+date_end = "" 
+description = """Alongside my research at Imperial, I am also the PhD Statistics Representative. As an PhD rep, it is my job to plan events, engage the students and enable an open dialogue between the staff and the students. """
 +++
