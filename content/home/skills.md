@@ -46,19 +46,19 @@ subtitle = ""
 
 [[feature]]
   icon = "database"
-  icon_pack = "fab"
+  icon_pack = "fa"
   name = "SQL"
   description = "85%"
 
 [[feature]]
   icon = "chart-simple"
-  icon_pack = "fab"
+  icon_pack = "fa"
   name = "Data Science"
   description = "90%"
 
   [[feature]]
     icon = "analytics"
-    icon_pack = "fab"
+    icon_pack = "fa"
     name = "Data Visualisation"
     description = "70%"
 +++
