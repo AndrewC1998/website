@@ -43,22 +43,4 @@ subtitle = ""
   icon_pack = "fas"
   name = "Mathematics"
   description = "100%"
-
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "SQL"
-  description = "85%"
-
-[[feature]]
-  icon = "chart-simple"
-  icon_pack = "fas"
-  name = "Data Science"
-  description = "90%"
-
-  [[feature]]
-    icon = "analytics"
-    icon_pack = "fas"
-    name = "Data Visualisation"
-    description = "70%"
 +++
