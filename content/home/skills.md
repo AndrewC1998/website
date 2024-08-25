@@ -43,4 +43,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "Mathematics"
   description = "100%"
+
+[[feature]]
+  icon = "hand-holding-usd"
+  icon_pack = "fas"
+  name = "Finance"
+  description = "80%"
+
 +++
