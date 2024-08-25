@@ -49,5 +49,4 @@ subtitle = ""
   icon_pack = "fas"
   name = "Finance"
   description = "80%"
-
 +++
