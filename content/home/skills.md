@@ -21,7 +21,7 @@ subtitle = ""
   description = "100%"
 
 [[feature]]
-  icon = "chart-line"
+  icon = "chart-area"
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
@@ -48,17 +48,23 @@ subtitle = ""
   icon = "hand-holding-usd"
   icon_pack = "fas"
   name = "Finance"
+  description = "70%"
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Data Science"
+  description = "95%"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
   description = "80%"
 
-  [[feature]]
-    icon = "hand-holding-usd"
-    icon_pack = "fas"
-    name = "Finance"
-    description = "80%"
-
-    [[feature]]
-      icon = "analytics"
-      icon_pack = "fas"
-      name = "Data Science"
-      description = "80%"
+[[feature]]
+  icon = "project-diagram"
+  icon_pack = "fas"
+  name = "Data Visualisation"
+  description = "85%"
 +++
