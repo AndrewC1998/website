@@ -50,7 +50,7 @@ Prizes: Best MSc Statistics Project (Winton Prize) & Best MSc Statistics Poster 
   url = "https://www.imperial.ac.uk/mathematics/postgraduate/doctoral-programme/"
   certificate_url = ""
   date_start = "2020-10-01"
-  date_end = ""
+  date_end = "Present"
   description = "I am undertaking a PhD under the supervision of [Professor Emma McCoy](https://www.imperial.ac.uk/people/e.mccoy) and [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen). My research topic is wavelet methods applied to point processes. I have undertaken research into the underlying structure of Hawkes processes, a special case of self-exciting point processes, and their behaviour in the context of local stationarity. My research has extended my Master's work to discuss other identifiability constraints of Hawkes processes as well as extending to more complex cases of the Hawkes process such as time-varying kernels and time-varying non-linear background intensity functions. This work utilised locally stationary wavelets and the methods have been applied to natural phenomena data sets."
 
 +++
