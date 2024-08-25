@@ -49,4 +49,16 @@ subtitle = ""
   icon_pack = "fas"
   name = "Finance"
   description = "80%"
+
+  [[feature]]
+    icon = "hand-holding-usd"
+    icon_pack = "fas"
+    name = "Finance"
+    description = "80%"
+
+    [[feature]]
+      icon = "analytics"
+      icon_pack = "fas"
+      name = "Data Science"
+      description = "80%"
 +++
