@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = "2020-10-01"
   description = """Distinction. This one-year full-time programme provides outstanding training both in theoretical and methodological statistics. This course provided me with a range of transferable skills, including programming, problem-solving, critical thinking, scientific writing, project work and presenting. I completed modules in a variety of areas including: Multivariate Analysis, Advanced Statistical Theory, Time Series, Machine Learning and Non-parametric Smoothing and Wavelets.
-  
+
 Dissertation: Identifiability of Self-Exciting Point Processes.
 Supervisor: [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen)
 
@@ -51,6 +51,6 @@ Prizes: Best MSc Statistics Project (Winton Prize) & Best MSc Statistics Poster 
   certificate_url = ""
   date_start = "2020-10-01"
   date_end = ""
-  description = "I am undertaking a PhD under the supervision of [Professor Emma McCoy](https://www.imperial.ac.uk/people/e.mccoy) and [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen). My research topic is Wavelets in Time Series. I am happy to discuss my research with those interested. "
-  
+  description = "I am undertaking a PhD under the supervision of [Professor Emma McCoy](https://www.imperial.ac.uk/people/e.mccoy) and [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen). My research topic is wavelet methods applied to point processes. I have undertaken research into the underlying structure of Hawkes processes, a special case of self-exciting point processes, and their behaviour in the context of local stationarity. My research has extended my Master's work to discuss other identifiability constraints of Hawkes processes as well as extending to more complex cases of the Hawkes process such as time-varying kernels and time-varying non-linear background intensity functions. This work utilised locally stationary wavelets and the methods have been applied to natural phenomena data sets."
+
 +++
