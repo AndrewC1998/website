@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Andrew Connell 
+name: Andrew Connell
 
 # Username (this should match the folder name)
 authors:
@@ -36,7 +36,7 @@ education:
   courses:
   - course: PhD Statistics
     institution: Imperial College London
-    year: Present
+    year: Ongoing
   - course: MSc Statistics - Theory and Methods (Distinction)
     institution: Imperial College London
     year: 2020
@@ -46,7 +46,7 @@ education:
   - course: A levels in Mathematics, Further Mathematics, Physics & Chemistry
     institution: Lancaster Royal Grammar School
     year: 2016
-    
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -78,7 +78,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "amc19@ic.ac.uk"
- 
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -86,6 +86,6 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate Mathematics with Statistics student who specialised in computational statistics, changepoint detection and wavelet analysis. I completed an MSc in Statistics (Theory and Methods) at Imperial College London and am currently undertaking a PhD in Statistics under the supervision of [Professor Emma McCoy](https://www.imperial.ac.uk/people/e.mccoy) and [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen) researching the application of wavelets to Point Processes. 
+I am a graduate Mathematics with Statistics student who specialised in computational statistics, changepoint detection and wavelet analysis. I completed an MSc in Statistics (Theory and Methods) at Imperial College London and am currently undertaking a PhD in Statistics under the supervision of [Professor Emma McCoy](https://www.imperial.ac.uk/people/e.mccoy) and [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen) researching the application of wavelets to Point Processes.
 
 Moreover, I was a Google Summer of Code open source developer working on creating and maintaining a package for R Project for Statistical Computing. This package is called changepoint.online, and alongside developing the package, I also developed new statistical methods. My research involved the creation of new changepoint detection methods which are online versions of the statistical methods PELT and ECP. I have continued to develop changepoint methods and also gone on to develop wavelet methods. I completed my Masters thesis on identifiability of self-exciting point processes, and continued to extend this work during my PhD.

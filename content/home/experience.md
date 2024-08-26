@@ -19,19 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-title = "CEO"
-company = "WEB201"
-company_url = "https://web201.tdhc.uk"
-location = "London"
-date_start = "2019-03-16"
-date_end = ""
-description = """ A new techincal consultancy that aims to empower clients with the skills to improve their digital impact. From basic website development to search engine optimisation, our team can improve all your online services. Responsibilities include:
-
- * Client Consulting
- * Website Development
- * Project Management """
-
-[[experience]]
   title = "Open Source Developer"
   company = "Google Summer of Code & R Project for Statistical Computing"
   company_url = "https://summerofcode.withgoogle.com/"
