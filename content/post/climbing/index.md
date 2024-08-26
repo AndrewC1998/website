@@ -29,9 +29,9 @@ projects: []
 
 ---
 
-Andrew has been an active and dedicated member of the Imperial College Mountaineering Club (ICMC), where he has played a vital role in both the club’s operations and the wider London climbing community. His passion for climbing extends across multiple disciplines, from bouldering to sport climbing, lead climbing, and traditional (trad) climbing. This breadth of experience has not only allowed him to develop a deep personal love for the sport but also to contribute to the climbing community around him.
+I have been an active and dedicated member of the Imperial College Mountaineering Club (ICMC), where I have been involved in both the club’s operations and the wider London climbing community. My passion for climbing extends across multiple disciplines, from bouldering to sport climbing, lead climbing, and traditional (trad) climbing. This breadth of experience has not only allowed me to develop a deep personal love for the sport but also to contribute to the climbing community around me.
 
-As a part of ICMC, Andrew has taken on numerous responsibilities. He regularly drives fellow members on trips, ensuring they can safely and efficiently reach climbing destinations. Additionally, he has assisted in managing the club’s climbing gear, from tidying and organising the climbing store to ordering and collecting new equipment.
+As a part of ICMC, I have taken on numerous responsibilities. I have regularly driven fellow members on trips, ensuring they can safely and efficiently reach climbing destinations. Additionally, I have assisted in managing the club’s climbing gear, from tidying and organising the climbing store to ordering and collecting new equipment.
 
 <div id="climbingCarousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
@@ -76,8 +76,8 @@ As a part of ICMC, Andrew has taken on numerous responsibilities. He regularly d
   </a>
 </div>
 
-Moreover, Andrew is passionate about sharing his knowledge and enthusiasm for climbing with others. He has actively participated in teaching beginners how to top rope and lead climb, helping them develop their skills and confidence on the wall. He has organised and led social bouldering sessions, creating a welcoming and inclusive environment where climbers of all levels can improve and connect.
+Moreover, I am passionate about sharing my knowledge and enthusiasm for climbing with others. I have actively participated in teaching beginners how to top rope and lead climb, helping them develop their skills and confidence on the wall. I have organised and led social bouldering sessions, creating a welcoming and inclusive environment where climbers of all levels can improve and connect.
 
-Beyond his involvement with the ICMC, Andrew has been an active participant in the London climbing community. Recognising the importance of efficiency and precision in the management of climbing centers, he developed a cost calculator app for the staff at the London Climbing Centres (LCC), which can be accessed at [CalculateCost](https://calculatecost.streamlit.app/).
+Beyond my involvement with ICMC, I have been an active participant in the London climbing community. Recognising the importance of efficiency and precision in the management of climbing centers, I have developed a cost calculator app for the staff at the London Climbing Centres (LCC), which can be accessed at [CalculateCost](https://calculatecost.streamlit.app/).
 
-In addition to his climbing pursuits, Andrew is committed to maintaining a high level of physical fitness. He regularly engages in strength training at the gym, running, and other fitness activities to enhance his overall endurance and performance. He has lead, taught, and been an active member of the London climbing community. For more information about the Imperial College Mountaineering Club, please visit [ICMC](https://icmountaineering.co.uk/).
+In addition to my climbing pursuits, I am committed in maintaining a high level of physical fitness. I regularly engage in strength training at the gym, running, and other fitness activities to enhance my overall endurance and performance. I have lead, taught, and been an active member of the London climbing community. For more information about the Imperial College Mountaineering Club, please visit [ICMC](https://icmountaineering.co.uk/).
