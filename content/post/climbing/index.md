@@ -30,33 +30,20 @@ projects: []
 # Set captions for image gallery.
 gallery_item:
 - album: gallery
-  caption: Default
-  image: theme-default.png
+  caption: "Outdooring Bouldering in the Lake District"
+  image: IMG1.jpg
 - album: gallery
-  caption: Ocean
-  image: theme-ocean.png
+  caption: "Early Morning Bouldering at Ravenswall"
+  image: IMG2.jpg
 - album: gallery
-  caption: Forest
-  image: theme-forest.png
+  caption: "Outdooring Bouldering in the Peak District"
+  image: IMG3.jpg
 - album: gallery
-  caption: Dark
-  image: theme-dark.png
+  caption: "Indoor Climbing at Parthian Manchester"
+  image: IMG4.jpg
 - album: gallery
-  caption: Apogee
-  image: theme-apogee.png
-- album: gallery
-  caption: 1950s
-  image: theme-1950s.png
-- album: gallery
-  caption: Coffee theme with Playfair font
-  image: theme-coffee-playfair.png
-- album: gallery
-  caption: Strawberry
-  image: theme-strawberry.png
----
-
-Certainly! Here’s the revised text with the photo gallery insertion:
-
+  caption: "Ravenswall: Andrew's Regular Climbing Gym"
+  image: IMG5.jpg
 ---
 
 Andrew has been an active and dedicated member of the Imperial College Mountaineering Club (ICMC), where he has played a vital role in both the club’s operations and the wider London climbing community. His passion for climbing extends across multiple disciplines, from bouldering to sport climbing, lead climbing, and traditional (trad) climbing. This breadth of experience has not only allowed him to develop a deep personal love for the sport but also to contribute to the climbing community around him.
