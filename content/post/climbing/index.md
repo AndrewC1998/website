@@ -5,7 +5,7 @@ summary: 'Actively involved in the Imperial College London Mountaineering Societ
 authors:
 - admin
 tags:
-- academia
+- climbing
 categories: []
 date: "2021-04-17T00:00:00Z"
 lastmod: "2024-08-27T00:00:00Z"
@@ -27,30 +27,54 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-# Set captions for image gallery.
-gallery_item:
-- album: gallery
-  caption: "Outdooring Bouldering in the Lake District"
-  image: IMG1.jpg
-- album: gallery
-  caption: "Early Morning Bouldering at Ravenswall"
-  image: IMG2.jpg
-- album: gallery
-  caption: "Outdooring Bouldering in the Peak District"
-  image: IMG3.jpg
-- album: gallery
-  caption: "Indoor Climbing at Parthian Manchester"
-  image: IMG4.jpg
-- album: gallery
-  caption: "Ravenswall: Andrew's Regular Climbing Gym"
-  image: IMG5.jpg
 ---
 
 Andrew has been an active and dedicated member of the Imperial College Mountaineering Club (ICMC), where he has played a vital role in both the club’s operations and the wider London climbing community. His passion for climbing extends across multiple disciplines, from bouldering to sport climbing, lead climbing, and traditional (trad) climbing. This breadth of experience has not only allowed him to develop a deep personal love for the sport but also to contribute to the climbing community around him.
 
 As a part of ICMC, Andrew has taken on numerous responsibilities. He regularly drives fellow members on trips, ensuring they can safely and efficiently reach climbing destinations. Additionally, he has assisted in managing the club’s climbing gear, from tidying and organising the climbing store to ordering and collecting new equipment.
 
-{{< gallery >}}
+<div id="climbingCarousel" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="IMG1.jpg" class="d-block w-100" alt="Outdooring Bouldering in the Lake District">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Outdooring Bouldering in the Lake District</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="IMG2.jpg" class="d-block w-100" alt="Early Morning Bouldering at Ravenswall">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Early Morning Bouldering at Ravenswall</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="IMG3.jpg" class="d-block w-100" alt="Outdooring Bouldering in the Peak District">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Outdooring Bouldering in the Peak District</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="IMG4.jpg" class="d-block w-100" alt="Indoor Climbing at Parthian Manchester">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Indoor Climbing at Parthian Manchester</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="IMG5.jpg" class="d-block w-100" alt="Ravenswall: Andrew's Regular Climbing Gym">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Ravenswall: Andrew's Regular Climbing Gym</p>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#climbingCarousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#climbingCarousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 Moreover, Andrew is passionate about sharing his knowledge and enthusiasm for climbing with others. He has actively participated in teaching beginners how to top rope and lead climb, helping them develop their skills and confidence on the wall. He has organised and led social bouldering sessions, creating a welcoming and inclusive environment where climbers of all levels can improve and connect.
 
