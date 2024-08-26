@@ -15,56 +15,56 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "100%"
+  icon = "calculator"
+  icon_pack = "fas"
+  name = "Mathematics"
+  description = ""
 
 [[feature]]
   icon = "chart-area"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-
-[[feature]]
-  icon = "github-square"
-  icon_pack = "fab"
-  name = "Git"
-  description = "85%"
-
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "90%"
-
-[[feature]]
-  icon = "calculator"
-  icon_pack = "fas"
-  name = "Mathematics"
-  description = "100%"
-
-[[feature]]
-  icon = "hand-holding-usd"
-  icon_pack = "fas"
-  name = "Finance"
-  description = "70%"
+  description = ""  
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data Science"
-  description = "95%"
+  description = ""
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = ""
+
+[[feature]]
+  icon = "github-square"
+  icon_pack = "fab"
+  name = "Git"
+  description = ""
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = ""
+
+[[feature]]
+  icon = "hand-holding-usd"
+  icon_pack = "fas"
+  name = "Finance"
+  description = ""
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "80%"
+  description = ""
 
 [[feature]]
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Data Visualisation"
-  description = "85%"
+  description = ""
 +++

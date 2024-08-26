@@ -54,10 +54,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:a.connell1@lancaster.ac.uk".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/andyconnell1998
+  link: '#contact'  # For a direct email link, use "mailto:andrew.connell19@imperial.ac.uk".
+- icon: globe
+  icon_pack: fas
+  link: https://profiles.imperial.ac.uk/andrew.connell19
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/andyconnell1998
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/andrewmconnell/
