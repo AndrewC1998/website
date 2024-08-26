@@ -1,7 +1,7 @@
 ---
 title: 'Avid Climber'
 subtitle: 'Outdoors or Indoors, on a wall either way!'
-summary: 'Actively involved in the Imperial College London Mountaineering Society. Regularly assisting the Postgraduate executive committee and organising trips with other climbers over a several styles and in various locations.'
+summary: 'Actively involved in the Imperial College London Mountaineering Society and the wider London Climbing Community'
 authors:
 - admin
 tags:
