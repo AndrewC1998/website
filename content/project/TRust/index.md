@@ -4,16 +4,17 @@ title = "TR:ust"
 
 # Date this page was created.
 date = 2016-10-12T00:00:00
+weight = 5
 
 # Project summary to display on homepage.
-summary = "TR:ust is an Enactus Lancaster project that aims to empower survivors of human trafficking in Arad Romania through entrepreneurial action. The project developed a beauty manufacturing business that sold soaps, perfumes and other cosmetic products. This provided the beneficiaries with financial freedom and flexible hours while also having the opportunity to access counselling. The link here takes you to the European Commission's report to show the importance of projects like these."
+summary = "TR:ust was an Enactus Lancaster project that empowered survivors of human trafficking in Arad Romania through entrepreneurial action. The project developed a beauty manufacturing business that sold soaps, perfumes and other cosmetic products. This provided the beneficiaries with financial freedom and flexible hours while also having the opportunity to access counselling."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["charitable"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://ec.europa.eu/anti-trafficking/member-states/romania_en"
+external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

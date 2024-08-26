@@ -4,13 +4,14 @@ title = "Create Connect Change"
 
 # Date this page was created.
 date = 2019-06-27T00:00:00
+weight = 2
 
 # Project summary to display on homepage.
-summary = "We find high-potential entrepreneurs in South African townships who severely lack world view and global thinking. Their innovation power suffers from their limited horizon while we have many highly skilled people in Europe who lack the local insight. To address the demand for entrepreneurial skills in South Africa, we piloted CCC in 2018, an online platform accessible to everyone in South Africa, where we provide a project management tool for development and management of business ideas."
+summary = "Create Connect Change finds high-potential entrepreneurs in South African townships who lack the opportunity to globally connect with other like minded entrepeneurs. To address the demand for entrepreneurial skills in South Africa, Create Connect Change was piloted in 2018, an online platform accessible to everyone in South Africa, where it provides a project management tool for development and management of business ideas."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["commercial", "charitable"]
+tags = ["commercial", "charitable", "South Africa", "Africa", "business"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://projectccc.org"

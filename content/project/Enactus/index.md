@@ -4,6 +4,7 @@ title = "Enactus Lancaster"
 
 # Date this page was created.
 date = 2019-06-27T00:00:00
+weight = 1
 
 # Project summary to display on homepage.
 summary = """Enactus Lancaster is part of an international non-profit organisation that brings students together who then use entrepreneurial action to improve and empower the lives of beneficiaries.
@@ -12,10 +13,10 @@ Enactus Lancaster is a team registered under the UK charity Enactus UK. Each tea
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = [ ]
+tags = ['social enterprise', 'volunteering', 'business']
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://enactusuk.org"
+external_link = "http://enactusuki.org"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

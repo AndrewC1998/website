@@ -1,5 +1,5 @@
 ---
-title: 'A Study of Snail Behavior'
+title: 'Events Organiser'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
