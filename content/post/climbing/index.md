@@ -36,31 +36,31 @@ As a part of ICMC, Andrew has taken on numerous responsibilities. He regularly d
 <div id="climbingCarousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="IMG1.jpg" class="d-block w-100" alt="Outdooring Bouldering in the Lake District">
+      <img src="gallery/IMG1.jpg" class="d-block w-100" alt="Outdooring Bouldering in the Lake District">
       <div class="carousel-caption d-none d-md-block">
         <p>Outdooring Bouldering in the Lake District</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="IMG2.jpg" class="d-block w-100" alt="Early Morning Bouldering at Ravenswall">
+      <img src="gallery/IMG2.jpg" class="d-block w-100" alt="Early Morning Bouldering at Ravenswall">
       <div class="carousel-caption d-none d-md-block">
         <p>Early Morning Bouldering at Ravenswall</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="IMG3.jpg" class="d-block w-100" alt="Outdooring Bouldering in the Peak District">
+      <img src="gallery/IMG3.jpg" class="d-block w-100" alt="Outdooring Bouldering in the Peak District">
       <div class="carousel-caption d-none d-md-block">
         <p>Outdooring Bouldering in the Peak District</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="IMG4.jpg" class="d-block w-100" alt="Indoor Climbing at Parthian Manchester">
+      <img src="gallery/IMG4.jpg" class="d-block w-100" alt="Indoor Climbing at Parthian Manchester">
       <div class="carousel-caption d-none d-md-block">
         <p>Indoor Climbing at Parthian Manchester</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="IMG5.jpg" class="d-block w-100" alt="Ravenswall: Andrew's Regular Climbing Gym">
+      <img src="gallery/IMG5.jpg" class="d-block w-100" alt="Ravenswall: Andrew's Regular Climbing Gym">
       <div class="carousel-caption d-none d-md-block">
         <p>Ravenswall: Andrew's Regular Climbing Gym</p>
       </div>
