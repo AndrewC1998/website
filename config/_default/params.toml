@@ -18,7 +18,7 @@ description = ""
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "andyconnell1998"
+twitter = ""
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -55,7 +55,7 @@ phone = ""
 address = "Mathematics and Statistics Department, Imperial College London, South Kensington, London, SW7 2AZ, UK"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-  office_hours = """By Appointment"""
+office_hours = """By Appointment"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/andyconnell1998"

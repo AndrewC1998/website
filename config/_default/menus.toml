@@ -18,25 +18,26 @@
 #  url = "#featured"
 #  weight = 40
 
-[[main]]
- name = "Experience"
- url = "#experience"
- weight = 20
 
 [[main]]
- name = "Education"
- url = "#accomplishments"
+  name = "Education"
+  url = "#accomplishments"
+  weight = 20
+
+[[main]]
+ name = "Academic Experience"
+ url = "#experience"
  weight = 30
+
+ [[main]]
+   name = "Creative Experience"
+   url = "#posts"
+    weight = 40
 
  [[main]]
   name = "Enactus"
   url = "#projects"
-  weight = 40
-
-[[main]]
-  name = "Other"
-  url = "#posts"
-   weight = 50
+  weight = 50
 
 [[main]]
   name = "Contact"
