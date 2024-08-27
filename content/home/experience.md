@@ -37,15 +37,6 @@ date_end = "2019-06-15"
 description = """As the Team Leader of Enactus Lancaster I was ultimately responsible for all activities of the society. I lead the executive committee and was involved in the creating and overseeing of long term strategic plans. I regularly liaised with Enactus UK where I ensured that all necessary information is passed between Enactus UK and Enactus Lancaster. Furthermore, through leading over 80 students at Lancaster University across several projects, I ensure that all projects are kept to schedule and our beneficiaries are positively impacted through entrepreneurial action. Details of the projects can be found in the Enactus section."""
 
 [[experience]]
-title = "Radio Presenter"
-company = "Bailrigg FM - The Atomic Fridge"
-company_url = "https://bailriggfm.co.uk"
-location = "Lancaster"
-date_start = "2017-11-27"
-date_end = "2019-01-01"
-description = """I, along with two other students, hosted a weekly radio show, "The Atomic Fridge", which is broadcast on Thursday mornings and has featured in the Maths departmental newsletter. We interviewed guests about their fields of study. Several guests agreed to appear on the show including: [Professor Alexander Belton](https://www.lancaster.ac.uk/maths/people/alexander-belton), [Professor Roger Jones](https://www.lancaster.ac.uk/physics/about-us/people/roger-william-lewis-jones) and [Dr. Mark MacDonald](https://www.maths.lancs.ac.uk/~macdonam/). We discussed mathematics, physics and statistical research ideas with the intention of broadening listeners' knowledge of these areas. The radio show has allowed me to explore and understand areas of mathematics, statistics and physics that I would not normally have encountered as an undergraduate student."""
-
-[[experience]]
 title = "Mathematics Departmental Ambassador"
 company = "Lancaster University Mathematics and Statistics Department"
 company_url = "https://www.lancaster.ac.uk/maths/"
