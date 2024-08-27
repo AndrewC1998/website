@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Lancaster"
   date_start = "2018-05-29"
   date_end = "2019-09-01"
-  description = """During my two Google Summer of Code internships with the R Project for Statistical Computing, I worked on advanced changepoint detection methods under the mentorship of [Professor Rebecca Killick](http://www.lancs.ac.uk/~killick/), from Lancaster University, and [Professor David Matteson](https://stat.cornell.edu/people/faculty/david-s-matteson), from Cornell University. These projects gave me the opportunity to work in R, C, and C++. Moreoer, the project required me to learn about the principles of data visualisation, best practices for code coverage and testing, and package development pipelines. For more details on my work, please refer to the Publications section below."""
+  description = """During my two Google Summer of Code internships with the R Project for Statistical Computing, I worked on advanced changepoint detection methods under the mentorship of [Professor Rebecca Killick](http://www.lancs.ac.uk/~killick/), from Lancaster University, and [Professor David Matteson](https://stat.cornell.edu/people/faculty/david-s-matteson), from Cornell University. These projects gave me the opportunity to work in R and C. Moreoer, the project required me to learn about the principles of data visualisation, best practices for code coverage and testing, and package development pipelines. For more details on my work, please refer to the Publications section below."""
 
 [[experience]]
 title = "Team Leader"
