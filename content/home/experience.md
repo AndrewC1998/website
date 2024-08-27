@@ -24,26 +24,8 @@ date_format = "Jan 2006"
   company_url = "https://summerofcode.withgoogle.com/"
   location = "Lancaster"
   date_start = "2018-05-29"
-  date_end = "2018-08-31"
-  description = """Over the summer, I was working with [Professor David Matteson](https://stat.cornell.edu/people/faculty/david-s-matteson) at Cornell University and Senior Lecturer [Dr. Rebecca Killick](http://www.lancs.ac.uk/~killick/) at Lancaster University to implement a new R package: changepoint.online. Although this work officially ended in August, I have continued developing this project further and begun writing a paper documenting the findings from the summer. Further work, such as the development of online non-parametric changepoint detection is now in the process of being developed.
-
-Throughout the summer I was using R, C++ and C to create the R package and was working from Lancaster University in an office with Ph.D. students. This opportunity meant I was working in an office where new Statistical research were being developed and this enabled me to learn about areas of Statistics that had not been covered by my degree’s curriculum.
-
-A brief summary of the project is provided below:
-There are many R packages available for offline changepoint detection but, to the knowledge of myself and the mentors, only one for online change point detection (cpm). This package would implement traditional "resetting" methodology, which means once a change has occurred previous data is forgotten. This project would bring the accuracy benefits of the offline methodology to the online setting, allowing users to implement the state of the art offline methods in a computationally efficient manner for online use."""
-
-[[experience]]
-  title = "Open Source Developer"
-  company = "Google Summer of Code & R Project for Statistical Computing"
-  company_url = "https://summerofcode.withgoogle.com/"
-  location = "Lancaster"
-  date_start = "2019-05-28"
   date_end = "2019-09-01"
-  description = """ Detecting changes in statistical properties of a time series is important in a large number of fields. A large amount of research has taken place considering changes in mean and variance in time series. However, a typical assumption is that the error process is independent. Similarly more and more users of existing packages, for example changepoint, are facing problems using real world data due to the dependence structures present. There are several methods available in the literature that are not available in open source code. This project plans to address this by adding this functionality to a popular CRAN package, changepoint.
-
-The project implements several changes in second order structure algorithms including the commonly used AR(p) structure and changes in variance and autocovariance (rather than spectra) through the LSW model.
-
-The Locally Stationary Wavelet (LSW) process can capture many dependence structures. Of particular interest in changepoint applications is the fact that a piecewise second order time series will have its structure encoded as piecewise constant sequences in the local wavelet periodogram - a feature noted by Cho and Fryzlewicz (2012). Consequently when using the LSW framework for changepoint methods we do not need to be prescriptive about the structure of the dependence beyond the requirements of the LSW definition. A barrier to the current implementation in wbsts is that the majority of practitioners are familiar with variance and autocorrelation but not necessarily spectral decompositions - let alone time-varying spectra. For this reason we are seeking to implement a method to detect changes in variance and covariance through the non-parametric LSW model instead of a change in spectra."""
+  description = """During my two Google Summer of Code internships with the R Project for Statistical Computing, I worked on advanced changepoint detection methods under the mentorship of [Professor Rebecca Killick](http://www.lancs.ac.uk/~killick/), from Lancaster University, and [Professor David Matteson](https://stat.cornell.edu/people/faculty/david-s-matteson), from Cornell University. These projects gave me the opportunity to work in R, C, and C++. Moreoer, the project required me to learn about the principles of data visualisation, best practices for code coverage and testing, and package development pipelines. For more details on my work, please refer to the Publications section below."""
 
 [[experience]]
 title = "Team Leader"
@@ -97,14 +79,16 @@ In my third year, I took on the role as Lead Representative. Tasks for this role
 
 [[experience]]
 title = "Private Tutor"
-company = "Freelance"
-company_url = ""
+company = "Freelance \& Elite Prep"
+company_url = "https://theeliteprep.co.uk"
 location = "London"
 date_start = "2018-06-01"
 date_end = ""
-description = """During my undergraduate and postgraduate degrees, I worked as a freelance private tutor specialising in mathematics and physics. I tutored GCSE up to first year degree level. As someone who is passionate in following a career in academia and lecturing, I really engage with the opportunity to teach others especially those in need of mathematics tutoring at an undergraduate level.
+description = """Throughout my academic career, I have had a strong passion for education, gaining extensive experience in teaching and tutoring across various levels. I have taught subjects ranging from foundational mathematics to advanced topics such as Time Series and Complex Analysis, in both high school and university settings. My teaching experience spans multiple education systems, including the British GCSE, A-Level, and IB curricula, the American system (SATs \& ACTs), and the German Abitur. Additionally, I have provided private tutoring for undergraduates seeking additional support in mathematics and statistics.
 
-Please contact me if you are interested in private lessons or have any other enquiries."""
+As a private tutor, I have specialised in mathematics, statistics and computing, working with students from GCSE to undergraduate levels. I taylor my approach to each student’s needs, whether they are preparing for exams, needing help with specific topics, or looking to strengthen their understanding of complex concepts. Beyond traditional tutoring, I have also delivered statistical literacy and continued professional development sessions, teaching programming, statistics, and applied mathematics to professionals looking to upskill in their current roles.
+
+Tutoring is available both in-person and online with flexible options to suit different learning preferences. If you are interested in private lessons or have any other inquiries, please do not hesitate to get in touch."""
 
 [[experience]]
 title = "Postgraduate Representative"
@@ -113,7 +97,7 @@ company_url = "https://www.imperial.ac.uk/statistics"
 location = "London"
 date_start = "2019-09-01"
 date_end = "2020-10-01"
-description = """Alongside my studies at Imperial, I was also the MSc Statistics Representative. As an MSc rep, it was my job to plan events, engage the students and enable an open dialogue between the staff and the students. Due to the COVID-19 pandemic, i had to adapt my event plans and arranged for online coffee breaks, mathematics seminars and wellbeing events. """
+description = """While pursuing my MSc in Statistics at Imperial College London, I served as the MSc Statistics Representative, where I played a key role in fostering community and ensuring open communication between students and staff. In this role, I organised events that engaged and connected students, facilitating a vibrant academic and social environment. When the COVID-19 pandemic struck, I quickly adapted by arranging virtual coffee breaks, online seminars, and wellbeing sessions, ensuring that students remained supported and connected despite the challenging circumstances."""
 
 [[experience]]
 title = "Postgraduate Research Representative"
@@ -121,6 +105,6 @@ company = "Imperial College London Department of Mathematics"
 company_url = "https://www.imperial.ac.uk/mathematics/postgraduate/doctoral-programme/current-students/key-contacts/"
 location = "London"
 date_start = "2020-09-01"
-date_end = ""
-description = """Alongside my research at Imperial, I am also the PhD Statistics Representative. As an PhD rep, it is my job to plan events, engage the students and enable an open dialogue between the staff and the students. """
+date_end = "2023-09-1"
+description = """As the PhD Mathematics Student Representative at Imperial College London for three years, I played an active role in enhancing the student experience. I organised regular reading groups, coordinated weekly coffee and cake socials to foster community, and successfully planned department-wide events like the Christmas party and Termly maths quizzes. I also engaged with Chalkdust magazine, addressed welfare concerns, and championed the needs of PhD students. Additionally, I was part of the committee that renovated the common room, and I participated in broader university-wide meetings and initiatives to represent the interests of the mathematics PhD community."""
 +++
