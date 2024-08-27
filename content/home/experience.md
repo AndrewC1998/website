@@ -92,19 +92,19 @@ Tutoring is available both in-person and online with flexible options to suit di
 
 [[experience]]
 title = "Visiting Research Student"
-company = "London School of Economics""
+company = "London School of Economics"
 company_url = "https://www.lse.ac.uk/statistics"
 location = "London"
-date_start = "22-10-11"
+date_start = "2022-10-11"
 date_end = ""
 description = """TO ADD"""
 
 [[experience]]
 title = "Graduate Teaching Assistant"
-company = "Imperial College London""
+company = "Imperial College London"
 company_url = "https://profiles.imperial.ac.uk/andrew.connell19"
 location = "London"
-date_start = "20-10-01"
+date_start = "2020-10-01"
 date_end = ""
 description = """During my time as a Graduate Teaching Assistant (GTA) at Imperial College London, I have gained extensive experience across multiple departments, including the Business School, the Chemistry Department, and, primarily, the Mathematics Department. I have contributed to a variety of courses, including the Introduction to University Mathematics course for first-year students, as well as numerous modules throughout the undergraduate and master's programs in the Mathematics Department.
 
@@ -112,10 +112,10 @@ I have taken on several leadership roles as Senior Graduate Teaching Assistants 
 
 [[experience]]
 title = "Teaching Assistant"
-company = "CIEE - Washington St. Louis""
+company = "CIEE - Washington St. Louis"
 company_url = "https://overseas.wustl.edu/apply"
 location = "London"
-date_start = "20-10-01"
+date_start = "2020-10-01"
 date_end = ""
 description = """TO ADD"""
 
