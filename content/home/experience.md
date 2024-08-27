@@ -83,7 +83,7 @@ company = "Freelance & Elite Prep"
 company_url = "https://theeliteprep.co.uk"
 location = "London"
 date_start = "2018-06-01"
-date_end = "2025-01-01"
+date_end = ""
 description = """Throughout my academic career, I have had a strong passion for education, gaining extensive experience in teaching and tutoring across various levels. I have taught subjects ranging from foundational mathematics to advanced topics such as Time Series and Complex Analysis, in both high school and university settings. My teaching experience spans multiple education systems, including the British GCSE, A-Level, and IB curricula, the American system (SATs & ACTs), and the German Abitur. Additionally, I have provided private tutoring for undergraduates seeking additional support in mathematics and statistics.
 
 As a private tutor, I have specialised in mathematics, statistics and computing, working with students from GCSE to undergraduate levels. I taylor my approach to each student’s needs, whether they are preparing for exams, needing help with specific topics, or looking to strengthen their understanding of complex concepts. Beyond traditional tutoring, I have also delivered statistical literacy and continued professional development sessions, teaching programming, statistics, and applied mathematics to professionals looking to upskill in their current roles.
