@@ -1,7 +1,7 @@
 ---
-title: 'Comedian'
-subtitle: 'Stand-Up Comedian with a Background in Acting'
-summary: 'Dynamic communicator with a history in performance, engaging in stand-up comedy and acting'
+title: 'Comedian & Broadcaster'
+subtitle: 'Radio Presenter & Stand-Up Comedian with a Background in Acting'
+summary: 'Dynamic communicator with a history in presenting, performance, and production'
 authors:
 - admin
 tags:
