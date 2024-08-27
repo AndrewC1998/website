@@ -1,7 +1,7 @@
 ---
 title: 'Comedian'
 subtitle: 'Stand-Up Comedian with a Background in Acting'
-summary: 'A dynamic communicator with a history in performance, combining stand-up comedy and acting expertise to engage and captivate audiences.'
+summary: 'Dynamic communicator with a history in performance, engaging in stand-up comedy and acting'
 authors:
 - admin
 tags:
