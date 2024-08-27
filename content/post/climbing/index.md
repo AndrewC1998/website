@@ -1,5 +1,5 @@
 ---
-title: 'Avid Climber'
+title: 'Climber'
 subtitle: 'Outdoors or Indoors, on a wall either way!'
 summary: 'Actively involved in the Imperial College London Mountaineering Society and the wider London Climbing Community'
 authors:
