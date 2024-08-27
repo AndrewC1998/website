@@ -25,7 +25,6 @@ organizations:
 bio: My research interests include signal processing, time series analysis and point processes.
 
 interests:
-title: "Academic Interests"
 - Point Process Analysis
 - Time Series Analysis
 - Wavelet Methods
