@@ -40,31 +40,31 @@ Beyond these core duties, I also occasionally served as the event photographer, 
     <div class="carousel-item active">
       <img src="gallery/IMG1.jpg" class="d-block w-100" alt="Available SDC Merchandise">
       <div class="carousel-caption d-none d-md-block">
-        <p>Event setup for Sunflower Dance Collective</p>
+        <p>Available SDC Merchandise</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="gallery/IMG2.jpg" class="d-block w-100" alt="Advertisement of First Event">
       <div class="carousel-caption d-none d-md-block">
-        <p>Lighting setup at an indoor venue</p>
+        <p>Advertisement of First Event</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="gallery/IMG3.jpg" class="d-block w-100" alt="Image at Outdoor Event">
       <div class="carousel-caption d-none d-md-block">
-        <p>Outdoor event sound check</p>
+        <p>Image at Outdoor Event</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="gallery/IMG4.jpg" class="d-block w-100" alt="Weekly Open Decks Event">
       <div class="carousel-caption d-none d-md-block">
-        <p>Managing the bar during a Sunflower Dance Collective event</p>
+        <p>Weekly Open Decks Event</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="gallery/IMG5.jpg" class="d-block w-100" alt="Advertisement for Event at The Social">
       <div class="carousel-caption d-none d-md-block">
-        <p>Coordinating with DJs and musicians</p>
+        <p>Advertisement for Event at The Social</p>
       </div>
     </div>
   </div>
