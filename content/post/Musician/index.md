@@ -1,12 +1,14 @@
 ---
 title: 'Musician'
-subtitle: Learn how to blog in academia using Jupyter notebooks
-summary: Learn how to blog in academia using Jupyter notebooks
+subtitle: 'Multi-Instrumentalist and Singer'
+summary: 'Multi-Instrumentalist and Vocal Enthusiast with a Passion for Ensemble and Community Music'
 authors:
 - admin
-tags: []
+tags:
+- music
 categories: []
-# date: "2019-02-05T00:00:00Z"
+date: "2021-11-01T00:00:00Z"
+lastmod: "2024-03-09T00:00:00Z"
 featured: false
 draft: false
 
@@ -14,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -25,95 +27,43 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-# Set captions for image gallery.
-gallery_item:
-- album: gallery
-  caption: Default
-  image: theme-default.png
-- album: gallery
-  caption: Ocean
-  image: theme-ocean.png
-- album: gallery
-  caption: Forest
-  image: theme-forest.png
-- album: gallery
-  caption: Dark
-  image: theme-dark.png
-- album: gallery
-  caption: Apogee
-  image: theme-apogee.png
-- album: gallery
-  caption: 1950s
-  image: theme-1950s.png
-- album: gallery
-  caption: Coffee theme with Playfair font
-  image: theme-coffee-playfair.png
-- album: gallery
-  caption: Strawberry
-  image: theme-strawberry.png
 ---
 
+I have had a passion for music from a young age, beginning my journey as a pianist at the age of seven and later expanding my repertoire to include the flute, a range of saxophones (soprano, alto, tenor, and baritone), and the tenor banjo. My passion for music led me to participate in a variety of ensembles throughout my teenage years and beyond, including big bands, jazz bands, sax quartets, and solo performances.
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+My interest in singing and its positive impact on mental health inspired me to cofound Imperial College’s Sea Shanty Choir. Recognising the need for connection and community in the wake of the COVID-19 pandemic, we organised and taught sea shanty singing to help combat student isolation and loneliness, leveraging the well-documented benefits of communal singing for mental well-being. You can learn more about this choir [here](https://www.imperialcollegeunion.org/activities/a-to-z/sea-shanty).
 
+My commitment to this unique musical tradition led me to join the London Sea Shanty Collective, where I continue to explore and share the rich heritage of sea shanties. The collective’s mission aligns with my belief in music as a powerful tool for building community. For more information about the London Sea Shanty Collective, visit their [page](https://londonseashantycollective.com).
 
+<div id="musicGalleryCarousel" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="gallery/IMG1.jpg" class="d-block w-100" alt="The Co-Founders of the Imperial College Sea Shanty Choir">
+      <div class="carousel-caption d-none d-md-block">
+        <p>The Co-Founders of the Imperial College Sea Shanty Choir</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="gallery/IMG2.jpg" class="d-block w-100" alt="Posters from First Sea Shanty Session">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Posters from First Sea Shanty Session</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="gallery/IMG3.jpg" class="d-block w-100" alt="London Sea Shanty Collective Performing Live">
+      <div class="carousel-caption d-none d-md-block">
+        <p>London Sea Shanty Collective Performing Live</p>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#musicGalleryCarousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#musicGalleryCarousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
-
-![png](./academia_0_0.png)
-
-
-
-
-```python
-print("Welcome to academia!")
-```
-
-    Welcome to academia!
-
-
-## Install Python and Jupyter
-
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and Jupyter notebook.
-
-Otherwise, for advanced users, install Jupyter notebook with `pip3 install jupyter`.
-
-## Create a new blog post [as usual](https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post)
-
-Run the following commands in your Terminal, substituting `<MY_WEBSITE_FOLDER>` and `my-post` with the file path to your academia website folder and a name for your blog post (without spaces), respectively:  
-
-```bash
-cd <MY_WEBSITE_FOLDER>
-hugo new  --kind post post/my-post
-cd <MY_WEBSITE_FOLDER>/content/post/my-post/
-```
-
-## Create or upload a Jupyter notebook
-
-Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (*New > Python Notebook*) or upload a notebook.
-
-```bash
-jupyter notebook
-```
-
-## Convert notebook to Markdown
-
-```bash
-jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
-
-# Copy the contents of Untitled.md and append it to index.md:
-cat Untitled.md | tee -a index.md
-
-# Remove the temporary file:
-rm Untitled.md
-```
-
-## Edit your post metadata
-
-Open `index.md` in your text editor and edit the title etc. in the [front matter](https://sourcethemes.com/academic/docs/front-matter/) according to your preference.
-
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
-
-For other tips, such as using math, see the guide on [writing content with academia](https://sourcethemes.com/academic/docs/writing-markdown-latex/). 
+---
