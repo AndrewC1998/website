@@ -91,6 +91,36 @@ As a private tutor, I have specialised in mathematics, statistics and computing,
 Tutoring is available both in-person and online with flexible options to suit different learning preferences. If you are interested in private lessons or have any other inquiries, please do not hesitate to get in touch."""
 
 [[experience]]
+title = "Visiting Research Student"
+company = "London School of Economics""
+company_url = "https://www.lse.ac.uk/statistics"
+location = "London"
+date_start = "22-10-11"
+date_end = ""
+description = """TO ADD"""
+
+[[experience]]
+title = "Graduate Teaching Assistant"
+company = "Imperial College London""
+company_url = "https://profiles.imperial.ac.uk/andrew.connell19"
+location = "London"
+date_start = "20-10-01"
+date_end = ""
+description = """During my time as a Graduate Teaching Assistant (GTA) at Imperial College London, I have gained extensive experience across multiple departments, including the Business School, the Chemistry Department, and, primarily, the Mathematics Department. I have contributed to a variety of courses, including the Introduction to University Mathematics course for first-year students, as well as numerous modules throughout the undergraduate and master's programs in the Mathematics Department.
+
+I have taken on several leadership roles as Senior Graduate Teaching Assistants and Guest Lecturer, for several courses, where I was responsible for designing course materials, particularly for masters topics in Statistics. Notably, I developed materials for the Game Theory course and the Statistical Learning course. Additionally, I have made significant contributions to the MSc programs, specifically the MSc Statistics and MSc Machine Learning and Data Science, including designing the Data Science Challenge in both 2022 and 2023 and creating content for the Ethics in Data Science course."""
+
+[[experience]]
+title = "Teaching Assistant"
+company = "CIEE - Washington St. Louis""
+company_url = "https://overseas.wustl.edu/apply"
+location = "London"
+date_start = "20-10-01"
+date_end = ""
+description = """TO ADD"""
+
+
+[[experience]]
 title = "Postgraduate Representative"
 company = "Imperial College London Department of Mathematics"
 company_url = "https://www.imperial.ac.uk/statistics"
