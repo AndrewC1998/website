@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "An Example Preprint / Working Paper"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,22 +15,27 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Preprint"
+publication_short: "Preprint"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: >
+  This paper presents a detailed study of [brief description of the topic]. The research explores [key problem or method] and provides insights into [main outcome]. This work extends previous studies in [related fields or prior research] and introduces a new perspective on [specific mathematical concept].
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: >
+  A brief exploration of [topic], providing new insights into [key problem or method].
 
 tags:
-- Source Themes
+- Mathematics
+- Preprint
 featured: false
 
 links:
+- name: PDF
+  url: example-preprint.pdf  # Link to the PDF file in the same folder
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_pdf: files/example-preprint.pdf  # Alternatively, you can use this line for the direct PDF link.
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
@@ -42,7 +47,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -51,7 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+projects: []
 # - internal-project
 
 # Slides (optional).
@@ -63,7 +68,7 @@ projects:
 ---
 
 {{% alert note %}}
-Click the *Slides* button above to demo academia's Markdown slides feature.
+You can download the preprint by clicking the PDF link above.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
