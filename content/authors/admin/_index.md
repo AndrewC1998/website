@@ -22,14 +22,16 @@ organizations:
   url: "https://summerofcode.withgoogle.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, signal processing and time series analysis.
+bio: My research interests include signal processing, time series analysis and point processes.
 
 interests:
+- Point Process Analysis
 - Time Series Analysis
-- Machine Learning
-- Fourier & Wavelet Transforms
+- Wavelet Methods
+- Multivariate Statistics
+- Data Science
 - Signal Processing
-- Computational Methods
+- Computational Statistics
 - Bayesian Statistics
 
 education:
@@ -43,9 +45,9 @@ education:
   - course: BSc Mathematics with Statistics (First Class Hons)
     institution: Lancaster University
     year: 2019
-  - course: A levels in Mathematics, Further Mathematics, Physics & Chemistry
-    institution: Lancaster Royal Grammar School
-    year: 2016
+ # - course: A levels in Mathematics, Further Mathematics, Physics & Chemistry
+ #   institution: Lancaster Royal Grammar School
+#    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -86,6 +88,6 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate Mathematics with Statistics student who specialised in computational statistics, changepoint detection and wavelet analysis. I completed an MSc in Statistics (Theory and Methods) at Imperial College London and am currently undertaking a PhD in Statistics under the supervision of [Professor Emma McCoy](https://www.imperial.ac.uk/people/e.mccoy) and [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen) researching the application of wavelets to Point Processes.
+Graduate Mathematician and Statistician with a specialism in computational statistics, wavelet methods and stochastic processes. I completed an MSc in Statistics (Theory and Methods) at Imperial College London and am currently undertaking a PhD in Statistics under the supervision of [Professor Emma McCoy](https://www.imperial.ac.uk/people/e.mccoy) and [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen) researching the application of wavelets to Point Processes.
 
 Moreover, I was a Google Summer of Code open source developer working on creating and maintaining a package for R Project for Statistical Computing. This package is called changepoint.online, and alongside developing the package, I also developed new statistical methods. My research involved the creation of new changepoint detection methods which are online versions of the statistical methods PELT and ECP. I have continued to develop changepoint methods and also gone on to develop wavelet methods. I completed my Masters thesis on identifiability of self-exciting point processes, and continued to extend this work during my PhD.

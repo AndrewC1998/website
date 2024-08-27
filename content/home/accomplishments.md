@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2016-10-01"
   date_end = "2019-06-26"
-  description = "First Class Hons. I completed modules in a variety of areas including: Probability, Complex and Real Analysis, Linear Algebra, Computational Mathematics, Machine Learning and Time Series Analysis."
+  description = "First Class (Hons). I completed modules in a variety of areas including: Probability, Complex and Real Analysis, Linear Algebra, Computational Mathematics, Machine Learning and Time Series Analysis."
 
 [[item]]
   organization = "Imperial College London"
@@ -36,12 +36,12 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-10-01"
   date_end = "2020-10-01"
-  description = """Distinction. This one-year full-time programme provides outstanding training both in theoretical and methodological statistics. This course provided me with a range of transferable skills, including programming, problem-solving, critical thinking, scientific writing, project work and presenting. I completed modules in a variety of areas including: Multivariate Analysis, Advanced Statistical Theory, Time Series, Machine Learning and Non-parametric Smoothing and Wavelets.
+  description = """Distinction. Statistics with a focus on theoretical and methodological statistics. Alongside the modules, a range of transferable skills, including programming, problem-solving, critical thinking, scientific writing, project work and presenting are taught. I completed modules in a variety of areas including: Multivariate Analysis, Advanced Statistical Theory, Time Series, Machine Learning, and Non-parametric Smoothing and Wavelets.
 
 Dissertation: Identifiability of Self-Exciting Point Processes.
 Supervisor: [Dr. Ed Cohen](https://www.imperial.ac.uk/people/e.cohen)
 
-Prizes: Best MSc Statistics Project (Winton Prize) & Best MSc Statistics Poster (Department Prize) """
+Prizes: Best MSc Statistics Project (Winton) & Best MSc Statistics Poster (Department)"""
 
 [[item]]
   organization = "Imperial College London"
