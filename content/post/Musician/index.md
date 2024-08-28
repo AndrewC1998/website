@@ -38,6 +38,12 @@ My commitment to this unique musical tradition led me to join the London Sea Sha
 <div id="musicGalleryCarousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
+      <img src="gallery/IMG4.jpg" class="d-block w-100" alt="Imperial College Sea Shanty Choir Logo">
+      <div class="carousel-caption d-none d-md-block">
+        <p>Imperial College Sea Shanty Choir Logo</p>
+      </div>
+    </div>
+    <div class="carousel-item">
       <img src="gallery/IMG1.jpg" class="d-block w-100" alt="The Co-Founders of the Imperial College Sea Shanty Choir">
       <div class="carousel-caption d-none d-md-block">
         <p>The Co-Founders of the Imperial College Sea Shanty Choir</p>
