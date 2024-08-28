@@ -1,5 +1,5 @@
 ---
-title: "An Example Preprint / Working Paper"
+title: "Wavelet Estimation of Hawkes Processes"
 authors:
 - admin
 date: "2024-04-07T00:00:00Z"
@@ -19,11 +19,11 @@ publication: "Preprint"
 publication_short: "Preprint"
 
 abstract: >
-  This paper presents a detailed study of [brief description of the topic]. The research explores [key problem or method] and provides insights into [main outcome]. This work extends previous studies in [related fields or prior research] and introduces a new perspective on [specific mathematical concept].
+  Locally stationary Hawkes processes were introduced as a generalisation to the classical Hawkes processes introduced in 1971. Hawkes processes are a class of point processes with a self-exciting structure. The locally stationary extension allowed for a time-varying second-order structure which has many applications in the physical sciences and finance. These generalisations, while useful, are relatively new to the literature. There is limited discussion on estimation methods for the time-varying parameters in these processes which has so far only focused on estimating the whole function and not the individual parameter functions. This research introduces a method of inference for the time-varying background intensity of the Hawkes process. This estimation method can be utilised for any kernel choice for the class of self-exciting point processes. Furthermore, the estimation procedure allows for the time-varying background intensity to be any continuous function.
 
 # Summary. An optional shortened abstract.
 summary: >
-  A brief exploration of [topic], providing new insights into [key problem or method].
+  A novel wavelet based method that allows for estimation of time-varying structures for locally- and non- stationary Hawkes processes.
 
 tags:
 - Mathematics
@@ -31,8 +31,8 @@ tags:
 featured: false
 
 links:
-- name: PDF
-  url: example-preprint.pdf  # Link to the PDF file in the same folder
+- name: Wavelet Estimation of Locally Stationary Hawkes Processes
+  url: paper.pdf  # Link to the PDF file in the same folder
 # - name: Custom Link
 #   url: http://example.org
 # url_pdf: files/example-preprint.pdf  # Alternatively, you can use this line for the direct PDF link.
@@ -67,8 +67,4 @@ projects: []
 # slides: example
 ---
 
-{{% alert note %}}
-You can download the preprint by clicking the PDF link above.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+  This paper is due to be added after the reviewing process has been completed and a pdf will be provided here. For the more interested reader, please feel free to contact me directly and I am happy to discuss this research.
