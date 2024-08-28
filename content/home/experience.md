@@ -28,15 +28,6 @@ date_format = "Jan 2006"
   description = """During my two Google Summer of Code internships with the R Project for Statistical Computing, I worked on advanced changepoint detection methods under the mentorship of [Professor Rebecca Killick](http://www.lancs.ac.uk/~killick/), from Lancaster University, and [Professor David Matteson](https://stat.cornell.edu/people/faculty/david-s-matteson), from Cornell University. These projects gave me the opportunity to work in R, C, and C++. Moreoer, the project required me to learn about the principles of data visualisation, best practices for code coverage and testing, and package development pipelines. For more details on my work, please refer to the Publications section below."""
 
 [[experience]]
-title = "Team Leader"
-company = "Enactus Lancaster"
-company_url = "http://enactusuk.org"
-location = "Lancaster"
-date_start = "2018-03-15"
-date_end = "2019-06-15"
-description = """As the Team Leader of Enactus Lancaster I was ultimately responsible for all activities of the society. I lead the executive committee and was involved in the creating and overseeing of long term strategic plans. I regularly liaised with Enactus UK where I ensured that all necessary information is passed between Enactus UK and Enactus Lancaster. Furthermore, through leading over 80 students at Lancaster University across several projects, I ensure that all projects are kept to schedule and our beneficiaries are positively impacted through entrepreneurial action. Details of the projects can be found in the Enactus section."""
-
-[[experience]]
 title = "Mathematics Departmental Ambassador"
 company = "Lancaster University Mathematics and Statistics Department"
 company_url = "https://www.lancaster.ac.uk/maths/"
@@ -48,8 +39,8 @@ As a Mathematics ambassador, I also presented lectures and talked about student 
 
 [[experience]]
 title = "Robotics Teacher"
-company = "Tamwood International College LTD."
-company_url = "https://www.tamwood.com/tamwood-camps/teen-robotics-camp/"
+company = "Tamwood International College"
+company_url = "https://tamwood.com"
 location = "Boston"
 date_start = "2017-07-03"
 date_end = "2017-08-24"
@@ -88,7 +79,9 @@ company_url = "https://www.lse.ac.uk/statistics"
 location = "London"
 date_start = "2022-10-11"
 date_end = ""
-description = """TO ADD"""
+description = """I am also currently a visiting research student at the [London School of Economics (LSE)](https://www.lse.ac.uk). This opportunity arose due to the movement of my supervisor, [Professor Emma McCoy](https://info.lse.ac.uk/staff/divisions/executive-office/people/emma-mccoy/Emma-McCoy), from Imperial College London to LSE. My PhD is under the joint supervision of [Dr. Ed Cohen](https://profiles.imperial.ac.uk/e.cohen) at Imperial College London and [Professor Emma McCoy](https://info.lse.ac.uk/staff/divisions/executive-office/people/emma-mccoy/Emma-McCoy) at LSE. This collaborative supervision provides me with access to world-leading academics from two of the world’s most prestigious institutions.
+
+[Professor Emma McCoy](https://info.lse.ac.uk/staff/divisions/executive-office/people/emma-mccoy/Emma-McCoy), formerly at Imperial College London, has recently joined the London School of Economics as part of their esteemed faculty. You can learn more about her work at her [Imperial profile](https://profiles.imperial.ac.uk/e.mccoy) and her [LSE profile](https://info.lse.ac.uk/staff/divisions/executive-office/people/emma-mccoy/Emma-McCoy)."""
 
 [[experience]]
 title = "Graduate Teaching Assistant"

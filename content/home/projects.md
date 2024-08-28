@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 75  # Order that this section will appear.
 
 title = "Enactus Projects"
-subtitle = "During my undergraduate and masters degrees, I took part in a variety of social enterprises through my involvement with Enactus. Some are highlighted below."
+subtitle = "During my undergraduate and masters degrees, I took part in a variety of social enterprises through my involvement with Enactus. During the later years I was involved, I was Team Leader of Enactus Lancaster where I was ultimately responsible for all activities of the society. Some are highlighted below."
 
 [content]
   # Page type to display. E.g. project.
