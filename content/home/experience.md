@@ -99,9 +99,11 @@ title = "Teaching Assistant"
 company = "CIEE - Washington St. Louis"
 company_url = "https://overseas.wustl.edu/apply"
 location = "London"
-date_start = "2020-10-01"
-date_end = ""
-description = """TO ADD"""
+date_start = "2024-05-15"
+date_end = "2024-06-25"
+description = """During the summer, I had the opportunity to teach a group of 24 students at the CIEE in London as part of their study abroad program. Working closely with an academic from Imperial College London, I co-taught a course on Differential Equations — a first-year undergraduate module designed for visiting engineers and computer scientists.
+
+In this role, I was responsible for creating and delivering course content, including exam materials, coursework questions, and lecture notes. I also took on the tasks of marking exams and coursework, ensuring that the students received comprehensive feedback on their progress. Additionally, I led several lectures, helping students navigate the complexities of differential equations in a rigorous yet supportive learning environment."""
 
 
 [[experience]]
