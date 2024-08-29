@@ -29,11 +29,11 @@ projects: []
 
 ---
 
-I have had a passion for music from a young age, beginning my journey as a pianist at the age of seven and later expanding my repertoire to include the flute, a range of saxophones (soprano, alto, tenor, and baritone), and the tenor banjo. My passion for music led me to participate in a variety of ensembles throughout my teenage years and beyond, including big bands, jazz bands, sax quartets, and solo performances.
+My passion for music began at a young age when, at the age of seven, I began to learn the piano. Later I expanded my repertoire to include the flute, a range of saxophones (soprano, alto, tenor, and baritone), and the tenor banjo. My passion for music led me to participate in a variety of ensembles throughout my teenage years and beyond, including big bands, jazz bands and sax quartets. I also had the opportunity to perform solo.
 
-My interest in singing and its positive impact on mental health inspired me to cofound Imperial College’s Sea Shanty Choir. Recognising the need for connection and community in the wake of the COVID-19 pandemic, we organised and taught sea shanty singing to help combat student isolation and loneliness, leveraging the well-documented benefits of communal singing for mental well-being. You can learn more about this choir [here](https://www.imperialcollegeunion.org/activities/a-to-z/sea-shanty).
+My interest in singing and its positive impact on mental health inspired me to co-found [Imperial College’s Sea Shanty Choir]((https://www.imperialcollegeunion.org/activities/a-to-z/sea-shanty). Recognising the need for connection and community in the wake of the COVID-19 pandemic, we organised and taught sea shanty singing to help combat student isolation and loneliness, leveraging the well-documented benefits of communal singing for mental well-being. You can learn more about this choir here.
 
-My commitment to this unique musical tradition led me to join the London Sea Shanty Collective, where I continue to explore and share the rich heritage of sea shanties. The collective’s mission aligns with my belief in music as a powerful tool for building community. For more information about the London Sea Shanty Collective, visit their [page](https://londonseashantycollective.com).
+My commitment to this unique musical tradition encouraged me to join the London Sea Shanty Collective, where I continue to explore and share the rich heritage of sea shanties. The collective’s mission aligns with my belief in music as a powerful tool for building community. For more information about the London Sea Shanty Collective, visit their [page](https://londonseashantycollective.com).
 
 <div id="musicGalleryCarousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">

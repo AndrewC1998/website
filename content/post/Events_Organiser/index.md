@@ -29,11 +29,15 @@ projects: []
 
 ---
 
-During my two-year involvement with the Sunflower Dance Collective (SDC), I gained extensive experience in event organisation and management, working across a variety of roles to ensure successful events at numerous venues across London. My responsibilities included setting up gear, coordinating sound and light setups for both indoor and outdoor events, and working closely with event spaces and clubs to ensure everything ran smoothly.
+During my two-year involvement with the Sunflower Dance Collective (SDC), I gained extensive experience in event organisation and management, working in a variety of roles to ensure successful events at numerous venues across London.
 
-As the Bar Manager, I oversaw the bar operations, managing inventory, staff, and customer service to create a welcoming and efficient environment. Additionally, I was involved in organising the venue, liaising with acts, DJs, and musicians to ensure their requirements were met and that the events proceeded without any issues. My role required strong communication skills, adaptability, and a proactive approach to problem-solving.
+My responsibilities included the set up and management of equipment, sound and light setups for both indoor and outdoor events and working closely with event spaces and clubs to ensure everything ran smoothly.
 
-Beyond these core duties, I also occasionally served as the event photographer, capturing the energy and atmosphere of each event for promotional use. Through these roles, I developed a broad skill set in event logistics, team management, and client relations. My experience has equipped me with the ability to work under pressure, maintain a high level of organisation, and deliver memorable experiences in dynamic and diverse environments.
+As the Bar Manager, I oversaw the bar operations, managing inventory, staff, and customer service to create a welcoming and efficient environment. Additionally, I was involved in organising the venue, liaising with acts, DJs, and musicians to ensure their requirements were met and events proceeded without any issues. My role required strong communication skills, adaptability, and a proactive approach to problem-solving.
+
+Beyond these core duties, I also occasionally served as the event photographer, capturing the energy and atmosphere of each event for promotional use.
+These roles helped me to develop a broad skill set in event logistics, team management, and client relations. My experience has equipped me with the ability to work under pressure, maintain a high level of organisation, and deliver memorable experiences in dynamic and diverse environments.
+
 
 <div id="sunflowerCarousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
